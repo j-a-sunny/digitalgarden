@@ -3,19 +3,7 @@
 ---
 
 ![Pasted image 20260704143828.png](/img/user/Pasted%20image%2020260704143828.png)
-#### **Question 1 (a): Mention different types of data.**
-
-Data is classified based on five primary criteria:
-
-- **By Source:** Primary data and Secondary data.
-- **By Research Type:** Survey data and Experimental data.
-- **By Measurement:** Qualitative data and Quantitative data.
-- **By Time:** Cross-sectional data, Time series data, Pooled cross sections, and Panel (Longitudinal) data.
-- **By Scale:** Nominal data, Ordinal data, Interval data, and Ratio data.
-
----
-
-#### **Question 1 (b): What are the characteristics of statistics?**
+#### **Question 1 (a): What are the characteristics of statistics?**
 
 To be considered statistics, information must possess several key features:
 
@@ -25,9 +13,17 @@ To be considered statistics, information must possess several key features:
 4. **Standard of Accuracy:** The data collected must meet reasonable accuracy standards.
 5. **Pre-determined Purpose:** Collection should be driven by a specific, previously decided objective.
 6. **Comparability:** The data must allow for meaningful comparison with other datasets.
-
 ---
+#### **Question 1 (b): Mention different types of data.**
 
+Data is classified based on five primary criteria:
+
+- **By Source:** Primary data and Secondary data.
+- **By Research Type:** Survey data and Experimental data.
+- **By Measurement:** Qualitative data and Quantitative data.
+- **By Time:** Cross-sectional data, Time series data, Pooled cross sections, and Panel (Longitudinal) data.
+- **By Scale:** Nominal data, Ordinal data, Interval data, and Ratio data.
+---
 #### **Question 1 (c): Briefly discuss data based on source and scale.**
 
 **Data Based on Source:**
