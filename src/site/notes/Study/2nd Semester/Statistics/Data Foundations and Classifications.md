@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/statistics/data-foundations-and-classifications/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/statistics/data-foundations-and-classifications/","dg-note-properties":{"note-reader":["654a4a9f33bc9422a21969a4a581e882ad1671a9855cb18e0d65a45113a67b49|2143"]}}
 ---
 
 In the study of statistics, understanding the nature and structure of data is fundamental. This chapter explores the distinction between populations and samples, defines what constitutes data, and provides a comprehensive classification system for the various types of information statisticians encounter.
