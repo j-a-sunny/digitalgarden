@@ -5,19 +5,16 @@
 
 ## TODO
 
-- [ ] Eat lunch
 
 
 ## Needs review
 
+- [ ] Eat lunch
 
 
 ## Complete
 
 **Complete**
-- [ ] Japanese
-- [ ] German
-- [ ] Korean
 
 
 
