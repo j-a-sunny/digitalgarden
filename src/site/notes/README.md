@@ -5,4 +5,5 @@
 
 
 This is my obsidian vault.
-jb
+
+Available [Here](https://jaspersdigitalgarden.netlify.app/)

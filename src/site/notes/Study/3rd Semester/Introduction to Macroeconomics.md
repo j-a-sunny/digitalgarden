@@ -33,11 +33,11 @@
 
 ### Definitions by economists
 
-| Economist | Definition (gist) |
-| --- | --- |
-| **R. G. D. Allen** | The study of relations between **broad economic aggregates** such as total employment, income and production. |
-| **Edward Shapiro** | Its major task is explaining what determines the economy's **aggregate output of goods and services**; it deals with the functioning of the economy as a whole. |
-| **Augbum** | A branch of economics which deals with the **economy as a whole**. |
+| Economist          | Definition                                                                                                                                                                                                            |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **R. G. D. Allen** | The study of relations between **broad economic aggregates** such as total employment, income and production.                                                                                                         |
+| **Edward Shapiro** | Its major task is explaining what determines the economy's **aggregate output of goods and services**; it deals with the functioning of the economy as a whole.                                                       |
+| **Augbum**         | A branch of economics which deals with the **economy as a whole**.                                                                                                                                                    |
 | **K. E. Boulding** | Studies the **overall averages and aggregates** of the economic system. Not individual incomes but **national income**; not individual prices but the **price level**; not individual output but **national output**. |
 
 > [!tip] Quick memory aid
