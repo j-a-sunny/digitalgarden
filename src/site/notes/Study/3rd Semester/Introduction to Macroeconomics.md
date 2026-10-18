@@ -48,7 +48,7 @@
 
 ## The Birth of Macroeconomics
 
-- Every discussion of macroeconomic policy begins with **John Maynard Keynes (1883–1946)**.
+- Every discussion of macroeconomic policy begins with **John Maynard Keynes (1st Baron Keynes) (1883–1946)**.
 - Before Keynes, most economists and policy makers accepted the **highs and lows of business cycles as inevitable tides**.
 - Macroeconomics emerged as a distinct branch during the **Great Depression of the 1930s**, when traditional theories failed to explain widespread unemployment and economic collapse.
 - Keynes's key work: ***The General Theory of Employment, Interest and Money*** (**1936**).
