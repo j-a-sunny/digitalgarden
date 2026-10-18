@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/study/3rd-semester/introduction-to-macroeconomics/","tags":["study","economics","macroeconomics"],"dg-note-properties":{"tags":["study","economics","macroeconomics"],"semester":"3rd","source":"1_introduction-of-macro-economics.ppt","lecturer":"Dr. Anup Kumar Mandal (Dept. of Economics and Sociology)"}}
 ---
 
-
+You can find the .pptx [here](https://docs.google.com/presentation/d/1H_O38DsBboh6iyck4qiEjBmciRTaLDR1/edit?usp=drive_link&ouid=109482788060291762469&rtpof=true&sd=true)
 # Introduction to Macroeconomics
 
 ## Contents

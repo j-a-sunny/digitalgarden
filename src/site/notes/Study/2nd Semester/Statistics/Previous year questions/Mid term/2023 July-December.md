@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/study/2nd-semester/statistics/previous-year-questions/mid-term/2023-july-december/","dg-note-properties":{}}
 ---
 
-![Pasted image 20260704143828.png](/img/user/Pasted%20image%2020260704143828.png)
+![Pasted image 20260704143828.png](/img/user/Study/2nd%20Semester/Statistics/Previous%20year%20questions/Mid%20term/Pasted%20image%2020260704143828.png)
 #### **Question 1 (a): What are the characteristics of statistics?**
 
 To be considered statistics, information must possess several key features:

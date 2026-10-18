@@ -49,7 +49,7 @@ Nawab Habibullah Model School and College
 
 **Programming Languages:** <iconify-icon icon="vscode-icons:file-type-python"></iconify-icon> <iconify-icon icon="vscode-icons:file-type-js-official"></iconify-icon> JavaScript / <iconify-icon icon="vscode-icons:file-type-typescript-official"></iconify-icon> TypeScript, <iconify-icon icon="vscode-icons:file-type-html"></iconify-icon> HTML / <iconify-icon icon="vscode-icons:file-type-css"></iconify-icon> CSS,
 
-**Tools and Frameworks:** Git, Linux, React, $\LaTeX$
+**Tools and Frameworks:** Git, Linux, React, Power BI, $\LaTeX$
 
 ## Language Skills
 

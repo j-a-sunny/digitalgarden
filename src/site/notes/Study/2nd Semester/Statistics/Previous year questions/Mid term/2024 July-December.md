@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/study/2nd-semester/statistics/previous-year-questions/mid-term/2024-july-december/","dg-note-properties":{}}
 ---
 
-![Pasted image 20260704143810.png](/img/user/Pasted%20image%2020260704143810.png)
+![Pasted image 20260704143810.png](/img/user/Study/2nd%20Semester/Statistics/Previous%20year%20questions/Mid%20term/Pasted%20image%2020260704143810.png)
 #### **Question 1 (a): Define Statistics. What are the limitations of Statistics?**
 
 **Definition:** According to **Fisher (1947)**, "the science of statistics is essentially a branch of **applied mathematics** and may be regarded as mathematics applied to **observational data**." More functionally, it is the scientific method concerned with the **collection, organization, presentation, analysis**, and drawing of **inferences** from numerical data.
