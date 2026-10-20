@@ -51,7 +51,7 @@ Garment producer of children's and girls' wear for Aarong
 Khulna Flotilla, PSTU Platoon
 *August 2026 – Present*
 
-- Train in a disciplined, military-style environment, building punctuality, fitness, and teamwork.
+- Train in a disciplined environment, building punctuality, fitness, and teamwork.
 - Completed the **Youth Development and National Security Capacity Enhancement Pilot Project Camp** (4–9 October 2026), gaining exposure to national security awareness and crisis response.
 
 ---
