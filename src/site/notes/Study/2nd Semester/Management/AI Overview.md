@@ -3,4 +3,4 @@
 ---
 
 
-![[Principles_of_Management_Exam_Crash_Course.m4a]]
+![[Principles_of_Management_Exam_Crash_Course.m4a\|Principles_of_Management_Exam_Crash_Course.m4a]]
