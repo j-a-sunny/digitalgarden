@@ -10,10 +10,11 @@ Read [[MEMORY\|MEMORY]] too: it has the student's background, current courses an
 ## Layout
 - Vault root: `/home/jasper/Documents/Obsidian/Vault01`
 - Study notes live under `Study/3rd Semester/<Subject>/`
-- Current subjects: Macroeconomics, Marketing (shared group files are in `Marketing/Group shared`)
+- Current subjects: Macroeconomics, Principles of Marketing, Managerial Finance, Intermediate Accounting, Applied Business Statistics, Management
+- Source sheets are in each subject folder, in `24-25 Session sheets/` (this session's shared files) and `23-24 Session sheets/` (previous year's sheets)
 
 ## When converting lecture slides or PDFs
-- Save the `.md` in the same folder as the source file, with the same base name
+- Save the converted `.md` in the **subject folder** (for example `Study/3rd Semester/Macroeconomics/`), with the source PDF or slides staying in `24-25 Session sheets/` or `23-24 Session sheets/`
 - Make it Obsidian-compatible: YAML frontmatter with tags, callouts, tables, `![[attachments/...]]` image links
 - Reword and reformat for studying: summary first, key-terms table, memory aids, self-test questions in foldable callouts
 - Mark anything not printed on the slides (added standard definitions, mnemonics) so it is clear what is from the source and what was added
@@ -25,4 +26,4 @@ Read [[MEMORY\|MEMORY]] too: it has the student's background, current courses an
 - Do not edit or delete original PDFs or slides
 
 ## Preferences
-- Ask before creating new files outside the folder of the source material
+- Ask before creating new files outside the subject folder

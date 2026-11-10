@@ -4,7 +4,7 @@
 
 
 > [!summary] About this index
-> Map of the converted Principles of Marketing notes. Source PDFs and slides are in `Previous year's sheets/` and `Group shared/`. Notes are reworded for studying; anything not on the slides is marked **Added** or **mine**.
+> Map of the converted Principles of Marketing notes. Source PDFs and slides are in `23-24 Session sheets/` and `24-25 Session sheets/`. Notes are reworded for studying; anything not on the slides is marked **Added** or **mine**.
 
 ## Chapter notes
 
@@ -51,4 +51,4 @@ flowchart LR
 
 ## Open items
 - [ ] Extract slide images into `attachments/` and embed key diagrams (Maslow, buying-behavior grid, MIS, research process).
-- [ ] Convert any further chapters from `Group shared/` when needed.
+- [ ] Convert any further chapters from `24-25 Session sheets/` when needed.

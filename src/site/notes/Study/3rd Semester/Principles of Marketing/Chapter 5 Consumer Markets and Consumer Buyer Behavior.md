@@ -6,7 +6,7 @@
 # Chapter 5: Consumer Markets and Consumer Buyer Behavior
 
 > [!info] About this note
-> Rewritten from the lecture slides (Pearson / Prentice Hall, 39 slides, previous year's sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides. Percentages for social classes are US figures from the slides.
+> Rewritten from the lecture slides (Pearson / Prentice Hall, 39 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides. Percentages for social classes are US figures from the slides.
 > Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]]
 
 ## The big picture (read this first)

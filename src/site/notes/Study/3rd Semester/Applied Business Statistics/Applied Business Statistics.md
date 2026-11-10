@@ -4,7 +4,7 @@
 
 
 > [!summary] About this index
-> Map of all converted notes for Applied Business Statistics. The notes are in this folder and the source PDFs are in `Group Shared/`. Notes are reworded for studying; anything not on the slides is marked **Added**, and mistakes in the slides are marked **Slide error**.
+> Map of all converted notes for Applied Business Statistics. The notes are in this folder and the source PDFs are in `24-25 Session sheets/`. Notes are reworded for studying; anything not on the slides is marked **Added**, and mistakes in the slides are marked **Slide error**.
 
 ## Suggested study order
 

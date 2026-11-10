@@ -6,7 +6,7 @@
 # Chapter 3: Analyzing the Marketing Environment
 
 > [!info] About this note
-> Rewritten from the lecture slides (Pearson / Prentice Hall, 35 slides, previous year's sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides. The slides use US examples and 2010 data (baby boomers, "Growth in U.S. West and South").
+> Rewritten from the lecture slides (Pearson / Prentice Hall, 35 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides. The slides use US examples and 2010 data (baby boomers, "Growth in U.S. West and South").
 > Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 2 Company and Marketing Strategy\|Chapter 2 Company and Marketing Strategy]] | Next: [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]]
 
 ## The big picture (read this first)

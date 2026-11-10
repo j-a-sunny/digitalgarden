@@ -6,7 +6,7 @@
 # Chapter 4: Managing Marketing Information
 
 > [!info] About this note
-> Rewritten from the lecture slides (Pearson / Prentice Hall, 37 slides, previous year's sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides.
+> Rewritten from the lecture slides (Pearson / Prentice Hall, 37 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides.
 > Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 3 Analyzing the Marketing Environment\|Chapter 3 Analyzing the Marketing Environment]] | Next: [[Study/3rd Semester/Principles of Marketing/Chapter 5 Consumer Markets and Consumer Buyer Behavior\|Chapter 5 Consumer Markets and Consumer Buyer Behavior]]
 
 ## The big picture (read this first)
