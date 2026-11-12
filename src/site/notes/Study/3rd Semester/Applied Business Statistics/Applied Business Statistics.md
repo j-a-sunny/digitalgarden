@@ -21,6 +21,10 @@
 | 9 | [[Study/3rd Semester/Applied Business Statistics/7. Nonparametric Methods 06052021\|7. Nonparametric Methods 06052021]] | Sign test, median test | `7. Nonparametric Methods 06052021.pdf` |
 | 10 | [[Study/3rd Semester/Applied Business Statistics/Index Number\|Index Number]] | Laspeyres, Paasche, Fisher, cost of living index | `Index Number.pdf` |
 | 11 | [[Study/3rd Semester/Applied Business Statistics/Quality Control\|Quality Control]] | Control charts, acceptance sampling | `Quality Control.pdf` |
+| extra | [[Study/3rd Semester/Applied Business Statistics/Probability Distribution\|Probability Distribution]] | Short sheet: binomial, Poisson, normal derivations, CV, 4 extra problems | `Probability Distribution(1).pdf` |
+
+> [!note] Other new files in `24-25 Session sheets/`
+> `Test of hypothesis.pptx` (73 slides) and `Test of hypothesis(1).pdf` (21 pages, theory only) have the same content as [[Study/3rd Semester/Applied Business Statistics/1739799506338_Test of hypothesis\|1739799506338_Test of hypothesis]], so no new note was made. The `.pptx` is the full version with all 11 problems and matches the existing note, including the slide errors listed below.
 
 ## Topic map
 
@@ -66,6 +70,7 @@ flowchart LR
 > - [[Study/3rd Semester/Applied Business Statistics/1739799506338_Test of hypothesis\|1739799506338_Test of hypothesis]]: wrong $\sum x^2$ in Problem 3, wrong d.f. and table values in Problems 3, 5, 7, 11, and a 45 that should be 41 in the $F$ test table.
 > - [[Study/3rd Semester/Applied Business Statistics/3 Binomial Distribution\|3 Binomial Distribution]]: $(0.1)^{15}$ should be $(0.92)^{15}$.
 > - [[Study/3rd Semester/Applied Business Statistics/5 Normal Distribution\|5 Normal Distribution]]: $N(250,4)$ should be $N(250,16)$; $e=2.712$ should be 2.718.
+> - [[Study/3rd Semester/Applied Business Statistics/Probability Distribution\|Probability Distribution]]: the 2-coin example has $P(2\text{ heads})=1/4$ and $P(1\text{ head})=1/2$, not the other way round; the pins problem has no final number (answer 0.0137).
 
 ## Open items
 - [ ] Extract slide images into `attachments/` (command given in chat) and embed key figures as `![[attachments/...]]`.
