@@ -24,6 +24,14 @@ Mission → Objectives & goals → Business portfolio → Marketing strategy (ST
 
 ![Ch2-slide-04.png](/img/user/Study/3rd%20Semester/Principles%20of%20Marketing/attachments/Ch2-slide-04.png)
 
+```mermaid
+flowchart LR
+    A["Defining the company mission"]
+    --> B["Setting company objectives and goals"]
+    --> C["Designing the business portfolio"]
+    --> D["Planning marketing and other functional strategies"]
+```
+
 > [!tip] Chapter in one sentence
 > Strategic planning sets the company's direction, the portfolio decides which businesses get resources, and marketing strategy turns that into customer-focused action.
 
@@ -31,26 +39,27 @@ Mission → Objectives & goals → Business portfolio → Marketing strategy (ST
 
 ## Key terms cheat sheet
 
-| Term | Meaning in one line |
-|---|---|
-| Strategic planning | Keeping a **strategic fit** between the company's goals and capabilities and its changing market opportunities |
-| Mission statement | The organization's purpose: what it wants to accomplish in the larger environment |
-| Business portfolio | The collection of businesses and products that make up the company |
-| SBU | A unit with its own mission and objectives, planned separately (division, product line, or single brand) |
-| Market penetration | More sales to **current segments**, **same product** |
-| Market development | **New segments** for **current products** |
-| Product development | **New or modified products** for **existing segments** |
-| Diversification | Starting or buying businesses **outside current products and markets** |
-| Downsizing | Cutting unprofitable products or units that no longer fit the strategy |
-| Value chain | Departments that carry out value-creating activities to design, produce, market, deliver and support products |
-| Value delivery network | Company + suppliers + distributors + customers partnering to improve the whole system |
-| Market segmentation | Dividing a market into distinct groups of buyers |
-| Target marketing | Evaluating segments and choosing which to enter |
-| Market positioning | Occupying a clear, distinctive, desirable place in consumers' minds relative to competitors |
-| Marketing mix | The controllable tools (4Ps) blended to get the response wanted in the target market |
-| Implementing | Turning marketing plans into marketing actions |
-| Controlling | Measuring and evaluating results and taking corrective action |
-| Marketing ROI | Net return from a marketing investment ÷ cost of that investment |
+| Term                   | Meaning in one line                                                                                                                               |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Plan                   | Defining course of action.                                                                                                                        |
+| Strategic planning     | The process of developing and maintaining a **strategic fit** between the company's goals and capabilities and its changing market opportunities. |
+| Mission statement      | The organization's purpose: what it wants to accomplish in the larger environment                                                                 |
+| Business portfolio     | The collection of businesses and products that make up the company                                                                                |
+| SBU                    | A unit with its own mission and objectives, planned separately (division, product line, or single brand)                                          |
+| Market penetration     | More sales to **current segments**, **same product**                                                                                              |
+| Market development     | **New segments** for **current products**                                                                                                         |
+| Product development    | **New or modified products** for **existing segments**                                                                                            |
+| Diversification        | Starting or buying businesses **outside current products and markets**                                                                            |
+| Downsizing             | Cutting unprofitable products or units that no longer fit the strategy                                                                            |
+| Value chain            | Departments that carry out value-creating activities to design, produce, market, deliver and support products                                     |
+| Value delivery network | Company + suppliers + distributors + customers partnering to improve the whole system                                                             |
+| Market segmentation    | Dividing a market into distinct groups of buyers                                                                                                  |
+| Target marketing       | Evaluating segments and choosing which to enter                                                                                                   |
+| Market positioning     | Occupying a clear, distinctive, desirable place in consumers' minds relative to competitors                                                       |
+| Marketing mix          | The controllable tools (4Ps) blended to get the response wanted in the target market                                                              |
+| Implementing           | Turning marketing plans into marketing actions                                                                                                    |
+| Controlling            | Measuring and evaluating results and taking corrective action                                                                                     |
+| Marketing ROI          | Net return from a marketing investment ÷ cost of that investment                                                                                  |
 
 ---
 

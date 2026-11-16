@@ -18,29 +18,24 @@ Inflation affects consumers, government, financial institutions, businesses, and
 The notes group consumers by income:
 
 - Low income
-- Middle income
-- High income
+	- Poor people
+	- People on fixed incomes
+	- Marginalized people
+- **Middle income**
+	- Lower-middle-income households
+	- Upper-middle-income households
+- **High income**
 
-They identify the following groups as especially vulnerable:
 
-- **Poor people**
-- **People on fixed incomes**
-- **Marginalized people**
-- **Lower-middle-income households**
-- **Upper-middle-income households**
-
-The page labels poor, fixed-income, and marginalized groups as the “most sufferer group,” and indicates “many hidden pain” for groups lower down the income scale. The broad point is that inflation reduces purchasing power, with the burden falling most heavily on people whose incomes are low or do not adjust quickly.
+Poor, fixed-income, and marginalized groups are the “most sufferer group,” and Lower-middle-income people have “many hidden pain”. The broad point is that inflation reduces purchasing power, with the burden falling most heavily on people whose incomes are low or do not adjust quickly.
 
 ### Government
-
-The notes list government gains and losses:
-
 - **Gains:** VAT and other taxes may yield more revenue as prices rise.
 - **Losses:** spending on subsidies and social support, noted as **VGD, VGF, TCB** (Bangladesh support programmes), may rise.
 
 ### Financial institutions and banks
 
-The notes identify banks as affected, with both gains and losses, but do not specify the mechanisms on this page.
+Banks are affected with both gains and losses, but do not specify the mechanisms on this page.
 
 ### Business sectors
 

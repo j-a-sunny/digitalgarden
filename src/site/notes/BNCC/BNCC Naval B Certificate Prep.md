@@ -18,6 +18,8 @@
 
 [[BNCC/BNCC Wings and Positions.canvas\|BNCC Wings and Positions.canvas]]
 
+
+
 ## 1. Seamanship: knots, bends, and hitches
 
 | Knot                            | What it does                                                        | Remember                                                               |
