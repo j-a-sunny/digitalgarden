@@ -26,6 +26,19 @@
         "src/plugins/garden-stats/styles/stats.scss",
         "src/plugins/garden-stats/templates/stats.njk"
       ]
+    },
+    "image-lightbox": {
+      "repo": "oleeskild/garden-plugin-image-lightbox",
+      "installedVersion": "1.1.0",
+      "installedRef": "v1.1.0",
+      "installedAt": "2026-11-17T18:25:30.380Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/image-lightbox/README.md",
+        "src/plugins/image-lightbox/garden-plugin.json",
+        "src/plugins/image-lightbox/styles/lightbox.scss",
+        "src/plugins/image-lightbox/templates/lightbox.njk"
+      ]
     }
   }
 }
