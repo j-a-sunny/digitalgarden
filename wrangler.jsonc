@@ -1,0 +1,12 @@
+// Read by `npx wrangler deploy`, which Cloudflare runs as the deploy command of
+// the Workers Build after `npm run build`. Without this file wrangler runs its
+// setup wizard, guesses the wrong output directory and build command for an
+// Eleventy project (`_site`, `eleventy --serve`) and then executes that server,
+// so the deployment never finishes.
+{
+  "name": "digitalgarden",
+  "compatibility_date": "2026-11-18",
+  "assets": {
+    "directory": "dist"
+  }
+}

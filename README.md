@@ -24,20 +24,15 @@ Docs are available at [docs.forestry.md](https://docs.forestry.md/)
 
 `.github/workflows/pages.yml` builds and publishes `dist/` on every push to `main`, passing the Pages base URL as `SITE_BASE_URL`.
 
-### Cloudflare Pages
+### Cloudflare
 
-Use Cloudflare's Git integration (Workers & Pages > Create > Pages > Connect to Git) with the repository and these build settings:
+Connect the repository under Workers & Pages and set the build command to `npm run build`; the deploy command is `npx wrangler deploy`.
 
-| Setting | Value |
-| --- | --- |
-| Framework preset | None |
-| Build command | `npm run build` |
-| Build output directory | `dist` |
-| Build system | v3 (Node.js 22, also pinned by `.nvmrc`) |
+`wrangler.jsonc` tells wrangler to upload `dist/`. It has to be committed: with no config file wrangler runs its setup wizard, which for an Eleventy project guesses `_site` and `npm run watch:eleventy`, adds those to `package.json` and then runs that dev server, so the deployment hangs until it times out. Run `npx wrangler deploy --dry-run` to check the config without publishing.
 
-No environment variables are needed. Pages injects `CF_PAGES_URL`, the URL of the deployment being built, so canonical links, the sitemap and the feed point at `digitalgarden.pages.dev` in production and at each preview URL for branch and pull request builds. Set `SITE_BASE_URL` under Settings > Environment variables only if you later serve the site from a custom domain, and set it for both the production and preview environments since Pages stores them separately.
+Canonical links, the sitemap and the feed use `SITE_BASE_URL` and then `CF_PAGES_URL`. Workers Builds sets neither, so with nothing configured they fall back to the defaults in `src/site/_data/meta.js`; set `SITE_BASE_URL` to the deployed origin (`https://<worker>.<subdomain>.workers.dev`, or a custom domain) to make them absolute. Serving from a subpath does not apply here, so leave `PATH_PREFIX` unset.
 
-`src/site/_headers` is copied to the output root, where Pages (and Netlify) read it and never serve it: HTML is revalidated on every request so a new deploy is visible immediately, while `img/optimized/*` renditions are pinned for a year because their filenames carry a hash of the source image. Pages joins the headers of all matching rules, so a narrower rule detaches `Cache-Control` with `! Cache-Control` before setting its own value.
+`src/site/_headers` is copied to the output root, where Cloudflare reads it and never serves it: HTML is revalidated on every request so a new deploy is visible immediately, while `img/optimized/*` renditions are pinned for a year because their filenames carry a hash of the source image. Cloudflare joins the headers of all matching rules, so the narrower rule detaches `Cache-Control` with `! Cache-Control` before setting its own value.
 
 The `get-theme` step downloads the Obsidian theme during the build, so the build host needs outbound network access (Cloudflare's does).
 
