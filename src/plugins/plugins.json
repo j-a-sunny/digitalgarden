@@ -228,6 +228,20 @@
         "src/plugins/note-age-banner/styles/banner.scss",
         "src/plugins/note-age-banner/templates/banner.njk"
       ]
+    },
+    "webmentions": {
+      "repo": "oleeskild/garden-plugin-webmentions",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-11-17T21:09:48.192Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/webmentions/README.md",
+        "src/plugins/webmentions/garden-plugin.json",
+        "src/plugins/webmentions/index.js",
+        "src/plugins/webmentions/styles/mentions.scss",
+        "src/plugins/webmentions/templates/mentions.njk"
+      ]
     }
   }
 }
