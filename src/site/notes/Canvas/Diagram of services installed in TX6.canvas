@@ -1,0 +1,53 @@
+---
+{"dg-publish":true,"permalink":"/canvas/diagram-of-services-installed-in-tx-6.canvas/","contentClasses":"canvas-page","created":"2026-09-11T22:34:24.586+06:00","updated":"2026-11-18T04:05:52.330+06:00","dg-note-properties":{}}
+---
+
+<div id="Diagram_of_services_installed_in_TX6canvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Diagram_of_services_installed_in_TX6canvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Diagram_of_services_installed_in_TX6canvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M 17.5 -97 C 17.5 -147, 17 -140, 17 -190" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="1e689888da1292ad"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 17.5 -47 C 17.5 3, 43.5 -97, 43.5 -47" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="9f65f5be88b18ff7"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-text " data-node-id="d812fc8c82bad05f" style="transform: translate(-108px, -250px); width: 250px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="WWY="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="af247f5248dfce7f" data-file-path="Linux/Tanix TX6/Services.md" style="transform: translate(-353px, -47px); width: 793px; height: 400px; ">
+	<div class="canvas-node-label">Services</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/linux/tanix-tx-6/services//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="e3311eb1a2d2e8bb" style="transform: translate(-136px, -97px); width: 307px; height: 50px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="VGFuaXggVFg2IFRWIGJveCBydW5uaW5nIEFybWJpYW4="></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
