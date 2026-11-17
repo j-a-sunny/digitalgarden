@@ -112,6 +112,30 @@ const {
 } = require("./src/helpers/userSetup");
 const pluginLoader = require("./src/helpers/pluginLoader");
 const { basesPlugin } = require("./src/helpers/basesPlugin");
+const { PATH_PREFIX } = require("./src/helpers/pathPrefix");
+
+// Every path the garden emits is root-absolute, so a site published below the
+// domain root (a GitHub Pages project site) needs that prefix added to the
+// output. These patterns only match root-absolute references: "//host" and
+// "https://..." are left alone.
+const ROOT_ABS_ATTR_RE = /(\s(?:href|src|poster|action|formaction|data-src)=)(["'])\/(?!\/)/gi;
+const SRCSET_ATTR_RE = /(\ssrcset=)(["'])([^"']*)\2/gi;
+const ROOT_ABS_CSS_URL_RE = /(url\()\/(?!\/)/gi;
+const ROOT_ABS_JSON_RE = /(?<!\\)"\/(?!\/)/g;
+
+function prefixRootAbsolutePaths(html) {
+  if (!PATH_PREFIX) return html;
+  return html
+    .replace(ROOT_ABS_ATTR_RE, (match, attr, quote) => `${attr}${quote}${PATH_PREFIX}/`)
+    .replace(SRCSET_ATTR_RE, (match, attr, quote, value) => {
+      const prefixed = value.replace(
+        /(^|,\s*)\/(?!\/)/g,
+        (urlMatch, lead) => `${lead}${PATH_PREFIX}/`
+      );
+      return `${attr}${quote}${prefixed}${quote}`;
+    })
+    .replace(ROOT_ABS_CSS_URL_RE, (match, open) => `${open}${PATH_PREFIX}/`);
+}
 
 const Image = require("@11ty/eleventy-img");
 const { isDecodableImage } = require("./src/helpers/imageFormat.js");
@@ -799,6 +823,34 @@ module.exports = function(eleventyConfig) {
     }
   });
 
+  // Exposed for templates that build markup the transforms never see, such as
+  // the feed, which converts its content to absolute URLs before output.
+  eleventyConfig.addFilter("prefixPaths", function(str) {
+    return typeof str === "string" ? prefixRootAbsolutePaths(str) : str;
+  });
+
+  // Registered before htmlMinifier so the minifier sees the final URLs.
+  eleventyConfig.addTransform("basePathHtml", function(content, outputPath) {
+    if (!PATH_PREFIX || !outputPath || !outputPath.endsWith(".html")) {
+      return content;
+    }
+    return prefixRootAbsolutePaths(content);
+  });
+
+  // graph.json, searchIndex.json and manifest.webmanifest are fetched by the
+  // browser and contain page URLs (store keys included), so they need the same
+  // prefix as the pages that link to them.
+  eleventyConfig.addTransform("basePathJson", function(content, outputPath) {
+    if (
+      !PATH_PREFIX ||
+      !outputPath ||
+      !/\.(json|webmanifest)$/.test(outputPath)
+    ) {
+      return content;
+    }
+    return content.replace(ROOT_ABS_JSON_RE, () => `"${PATH_PREFIX}/`);
+  });
+
   eleventyConfig.addTransform("htmlMinifier", async function(content) {
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
@@ -851,7 +903,25 @@ module.exports = function(eleventyConfig) {
     normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
     anchorAttributesCache.clear();
   });
+  // The favicons plugin writes manifest.webmanifest straight to disk, so no
+  // transform ever sees it and its icon paths need rewriting here.
+  function prefixWebManifest() {
+    const file = "./dist/manifest.webmanifest";
+    try {
+      const text = fs.readFileSync(file, "utf8");
+      const prefixed = text.replace(ROOT_ABS_JSON_RE, () => `"${PATH_PREFIX}/`);
+      if (prefixed !== text) {
+        fs.writeFileSync(file, prefixed);
+      }
+    } catch {
+      // No manifest generated for this build.
+    }
+  }
+
   eleventyConfig.on("eleventy.after", async () => {
+    if (PATH_PREFIX) {
+      prefixWebManifest();
+    }
     if (pendingImageJobs.length > 0) {
       console.log(`[image] Waiting for ${pendingImageJobs.length} image optimization jobs...`);
       await Promise.all(pendingImageJobs);

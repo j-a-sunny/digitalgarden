@@ -1,11 +1,15 @@
 require("dotenv").config();
 const { globSync } = require("glob");
+const { resolvePathPrefix } = require("../../helpers/pathPrefix");
 
 module.exports = async (data) => {
   let baseUrl = process.env.SITE_BASE_URL || "";
   if (baseUrl && !baseUrl.startsWith("http")) {
     baseUrl = "https://" + baseUrl;
   }
+  // Path the site is served from ("" at a domain root, "/garden" on a GitHub
+  // Pages project site). Templates that build their own URLs must add it.
+  const pathPrefix = resolvePathPrefix();
   // posix: true keeps forward slashes on Windows, where these paths are
   // split on "/" and used as URLs (see #416).
   let themeStyle =
@@ -120,6 +124,7 @@ module.exports = async (data) => {
     logoHeight,
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
     siteBaseUrl: baseUrl,
+    pathPrefix,
     styleSettingsCss,
     uiStrings,
     buildDate: new Date(),
