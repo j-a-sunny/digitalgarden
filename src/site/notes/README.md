@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2026-10-20T12:09:14.775+06:00","updated":"2026-10-20T12:10:52.000+06:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2026-10-20T12:09:14.775+06:00","updated":"2026-11-18T02:26:42.409+06:00","dg-note-properties":{}}
 ---
 
 
@@ -7,7 +7,8 @@
 
 Welcome! This is my personal [Obsidian](https://obsidian.md) vault, published as a digital garden. It's where I keep study notes, Linux and NixOS tinkering, ideas, and writing. Nothing here is finished; notes grow and change over time.
 
-🌐 **Live site:** [jaspersdigitalgarden.netlify.app](https://jaspersdigitalgarden.netlify.app/)
+🌐 **Live site:** [https://garden.j-a-sunny.shop/](https://garden.j-a-sunny.shop/)
+
 
 ## What's inside
 
