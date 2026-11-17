@@ -3,7 +3,8 @@ const { globSync } = require("glob");
 const { resolvePathPrefix } = require("../../helpers/pathPrefix");
 
 module.exports = async (data) => {
-  let baseUrl = process.env.SITE_BASE_URL || "";
+  let baseUrl =
+    process.env.SITE_BASE_URL || process.env.CF_PAGES_URL || "";
   if (baseUrl && !baseUrl.startsWith("http")) {
     baseUrl = "https://" + baseUrl;
   }

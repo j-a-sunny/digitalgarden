@@ -16,6 +16,30 @@ See the README in the plugin repo for information on how to set it up.
 Docs are available at [docs.forestry.md](https://docs.forestry.md/)
 
 ---
+## Deploying
+
+`npm run build` writes a static site to `dist/`. `SITE_BASE_URL` sets the canonical origin used by `sitemap.xml`, `feed.xml` and the page metadata. When it carries a path (a GitHub Pages project site such as `/digitalgarden/`), every root-absolute asset and link in the output — including the graph, search index and web manifest the browser fetches — is rewritten to that prefix. If `SITE_BASE_URL` is unset, `CF_PAGES_URL` is used instead.
+
+### GitHub Pages
+
+`.github/workflows/pages.yml` builds and publishes `dist/` on every push to `main`, passing the Pages base URL as `SITE_BASE_URL`.
+
+### Cloudflare Pages
+
+Use Cloudflare's Git integration (Workers & Pages > Create > Pages > Connect to Git) with the repository and these build settings:
+
+| Setting | Value |
+| --- | --- |
+| Framework preset | None |
+| Build command | `npm run build` |
+| Build output directory | `dist` |
+| Build system | v3 (Node.js 22, also pinned by `.nvmrc`) |
+
+No environment variables are needed. Pages injects `CF_PAGES_URL`, the URL of the deployment being built, so canonical links, the sitemap and the feed point at `digitalgarden.pages.dev` in production and at each preview URL for branch and pull request builds. Set `SITE_BASE_URL` under Settings > Environment variables only if you later serve the site from a custom domain, and set it for both the production and preview environments since Pages stores them separately.
+
+The `get-theme` step downloads the Obsidian theme during the build, so the build host needs outbound network access (Cloudflare's does).
+
+---
 ## Plugins
 
 The garden is extensible through plugins: directories under `src/plugins/`

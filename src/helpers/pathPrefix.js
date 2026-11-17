@@ -8,10 +8,11 @@ require("dotenv").config();
  *
  * Sources, in order: an explicit PATH_PREFIX (may be "/garden" or "garden"),
  * then the path component of SITE_BASE_URL (the value actions/configure-pages
- * hands to the build as base_url).
+ * hands to the build as base_url), then CF_PAGES_URL (injected by Cloudflare
+ * Pages, already the URL of the deployment being built).
  */
 function resolvePathPrefix(env = process.env) {
-  let raw = (env.PATH_PREFIX || env.SITE_BASE_URL || "").trim();
+  let raw = (env.PATH_PREFIX || env.SITE_BASE_URL || env.CF_PAGES_URL || "").trim();
   if (!raw) return "";
   if (/^(https?:)?\/\//i.test(raw)) {
     try {
