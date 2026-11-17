@@ -918,17 +918,46 @@ module.exports = function(eleventyConfig) {
     }
   }
 
-  eleventyConfig.on("eleventy.after", async () => {
-    if (PATH_PREFIX) {
-      prefixWebManifest();
+  // Plugins ship their own scripts and styles as passthrough copies, so no
+  // transform sees them either, yet they contain root-absolute URLs such as
+  // fetch("/graph.json") or "/plugins/<id>/assets/lib.js". A literal is only
+  // rewritten when its first path segment names something that exists at the
+  // top level of dist, which leaves values like "/" or API routes alone.
+  function prefixStaticAssetUrls() {
+    const topLevel = new Set(fs.readdirSync("./dist"));
+    const quotedRefRe = /(["'`])\/([A-Za-z0-9._-]+)/g;
+    const cssUrlRe = /(url\(\s*["']?)\/([A-Za-z0-9._-]+)/g;
+    const rewrite = (text) =>
+      text
+        .replace(quotedRefRe, (match, quote, segment) =>
+          topLevel.has(segment) ? `${quote}${PATH_PREFIX}/${segment}` : match
+        )
+        .replace(cssUrlRe, (match, open, segment) =>
+          topLevel.has(segment) ? `${open}${PATH_PREFIX}/${segment}` : match
+        );
+
+    const visit = (dir) => {
+      for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+        const file = nodePath.join(dir, entry.name);
+        if (entry.isDirectory()) {
+          visit(file);
+        } else if (/\.(?:js|mjs|css)$/.test(entry.name)) {
+          const text = fs.readFileSync(file, "utf8");
+          const rewritten = rewrite(text);
+          if (rewritten !== text) {
+            fs.writeFileSync(file, rewritten);
+          }
+        }
+      }
+    };
+
+    try {
+      visit("./dist");
+    } catch {
+      // No dist directory to rewrite.
     }
-    if (pendingImageJobs.length > 0) {
-      console.log(`[image] Waiting for ${pendingImageJobs.length} image optimization jobs...`);
-      await Promise.all(pendingImageJobs);
-      console.log(`[image] Image optimization complete`);
-      pendingImageJobs.length = 0;
-    }
-  });
+  }
+
   eleventyConfig.addWatchTarget(FAVICON_SOURCE);
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
@@ -973,6 +1002,21 @@ module.exports = function(eleventyConfig) {
   });
 
   pluginLoader.applyEleventyHooks(eleventyConfig);
+
+  // Registered after the plugin hooks so it runs once their styles and
+  // passthrough assets are on disk, and it only touches root-absolute paths.
+  eleventyConfig.on("eleventy.after", async () => {
+    if (PATH_PREFIX) {
+      prefixWebManifest();
+      prefixStaticAssetUrls();
+    }
+    if (pendingImageJobs.length > 0) {
+      console.log(`[image] Waiting for ${pendingImageJobs.length} image optimization jobs...`);
+      await Promise.all(pendingImageJobs);
+      console.log(`[image] Image optimization complete`);
+      pendingImageJobs.length = 0;
+    }
+  });
 
   userEleventySetup(eleventyConfig);
 
