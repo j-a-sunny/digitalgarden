@@ -6,7 +6,7 @@
 # The Multiplier
 
 > [!info] About this note
-> Rewritten from the 37-slide lecture deck `2.multiplier-1.ppt` (24-25 session sheet) for studying. The old `.ppt` was converted before reading. The deck's equations are images in the original, so I rebuilt them in LaTeX and re-checked every calculation. Callouts titled **Added**, **Memory aid**, **Check** and **Review questions** are mine; everything else follows the slides. Last year's deck of the same name has essentially the same content.
+> Rewritten from the 37-slide lecture deck `2.multiplier-1.ppt` (24-25 session sheet) for studying. The old `.ppt` was converted before reading. Some equations are images in the original, so I rebuilt them in LaTeX and re-checked every calculation. Callouts titled **Added**, **Memory aid**, **Check** and **Review questions** are mine; everything else follows the slides. Last year's deck of the same name has essentially the same content.
 > Previous: [[Study/3rd Semester/Macroeconomics/Introduction to Macroeconomics\|Introduction to Macroeconomics]]
 
 ## Contents
@@ -22,7 +22,6 @@
 9. [[Study/3rd Semester/Macroeconomics/The Multiplier#Things to check\|#Things to check]]
 10. [[Study/3rd Semester/Macroeconomics/The Multiplier#Review questions\|#Review questions]]
 
----
 
 ## The big picture (read this first)
 
@@ -41,27 +40,19 @@ $$k=\frac{\Delta Y}{\Delta I}=\frac{1}{1-\text{MPC}}=\frac{1}{\text{MPS}}$$
 > [!tip] Note in one sentence
 > The multiplier tells you how many times income rises (or falls) for each unit change in autonomous spending, and the higher the MPC the bigger it is.
 
----
 
 ## Definition of the multiplier
 
-- A number that indicates the **magnitude** of a particular macroeconomic policy measure.
-- It is the process by which an initial change in **autonomous spending** (investment, government expenditure or exports) leads to a larger change in **national income (GDP)**.
-- **Simple definition:** it shows **how many times** national income increases (or decreases) as a result of a change in autonomous spending.
 
 The slides open with an arithmetic analogy: in **6 × 3 = 18**, 6 is the factor (the multiplier), 3 the multiplicand and 18 the product. In the same way an investment is multiplied into a larger income.
 
----
 
 ## Marginal propensity to consume (MPC)
 
-- **Propensity to consume:** the proportion of **disposable income** people want to spend on consumption.
-- **MPC:** the proportion of **additional income** a person wants to consume. It measures **induced consumption**, the rise in consumption that follows a rise in disposable income (income after taxes and transfers).
-- Example from the slides: if a household earns one extra Tk and MPC = **0.65**, it spends **65 paisa** and saves **35 paisa**.
 
 **Formula:** the MPC is the derivative of the consumption function with respect to disposable income, or in changes
 
-$$\text{MPC}=\frac{dC}{dY_d}=\frac{\Delta C}{\Delta Y}$$
+$$\text{MPC}=\frac{dC}{dY_d}=\frac{\Delta C}{\Delta Y_d}$$
 
 **Example (slide 7).**
 
@@ -72,7 +63,6 @@ $$\text{MPC}=\frac{dC}{dY_d}=\frac{\Delta C}{\Delta Y}$$
 
 $\Delta C=170-120=50$ and $\Delta Y=180-120=60$, so MPC $=50/60=0.83$. People **consume 83% and save 17%**.
 
----
 
 ## Relationship between MPC and the multiplier
 
@@ -112,7 +102,6 @@ So the multiplier $K=\dfrac{1}{1-c}=\dfrac{\Delta Y}{\Delta I}$. Since $1-\text{
 > - **MPC + MPS = 1**, so the multiplier is also **one over the savings habit**.
 > - **More saving, smaller multiplier** (savings are a leakage from the spending chain).
 
----
 
 ## Importance of the multiplier
 
@@ -129,17 +118,10 @@ So the multiplier $K=\dfrac{1}{1-c}=\dfrac{\Delta Y}{\Delta I}$. Since $1-\text{
 9. **Explains interdependence in the economy.** Spending in one sector creates income in others.
 10. **Assists demand management.** It helps manage aggregate demand, controlling inflation in booms and stimulating growth in downturns.
 
----
 
 ## Uses of the multiplier
 
-- It occupies a very important place **in economic theory and in shaping policy**.
-- It is an **instrument of income building**: a small rise in investment can cause a large rise in income.
-- It is used to **control business cycles**.
-- It gives guidelines for **income and employment policy**.
-- It also **explains the expansion of the public sector** in modern times.
 
----
 
 ## Worked illustrations
 
@@ -188,7 +170,6 @@ $\Delta I=\dfrac{600}{1.6667}=$ **Tk 360 million**.
 > 3. For consumption use $\Delta C=\text{MPC}\times\Delta Y$, or $\Delta C=\Delta Y-\Delta I$ (since $Y=C+I$).
 > 4. Check signs: a **fall** in investment gives a **negative** $\Delta Y$.
 
----
 
 ## Key terms
 
@@ -204,7 +185,6 @@ $\Delta I=\dfrac{600}{1.6667}=$ **Tk 360 million**.
 | Reverse multiplier | The magnified **fall** in income when autonomous spending falls |
 | Equilibrium income | The income where $Y=C+I$ |
 
----
 
 ## Things to check
 

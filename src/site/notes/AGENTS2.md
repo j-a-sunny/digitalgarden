@@ -27,3 +27,4 @@ Read [[MEMORY\|MEMORY]] too: it has the student's background, current courses an
 
 ## Preferences
 - Ask before creating new files outside the subject folder
+- Ignore the big hidden folders (`.claude/`, `.obsidian/`, `.trash/`, `.stfolder*`): do not read, search, scan or edit them
