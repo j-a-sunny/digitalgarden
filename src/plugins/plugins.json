@@ -187,6 +187,20 @@
         "src/plugins/chartjs/styles/chartjs.scss",
         "src/plugins/chartjs/test/convert.node-test.js"
       ]
+    },
+    "breadcrumbs": {
+      "repo": "oleeskild/garden-plugin-breadcrumbs",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-11-17T18:33:17.544Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/breadcrumbs/README.md",
+        "src/plugins/breadcrumbs/garden-plugin.json",
+        "src/plugins/breadcrumbs/index.js",
+        "src/plugins/breadcrumbs/styles/trail.scss",
+        "src/plugins/breadcrumbs/templates/trail.njk"
+      ]
     }
   }
 }
