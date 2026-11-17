@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"hq","type":"text","text":"## Shared Directorate positions\n\n- **Director (Training and Enrollment):** Lt Colonel Md Nahiduzzaman\n- **Director (Administration and Accounts):** Abdullah Al Baki (Deputy Secretary)\n- **Deputy Director (Coordination):** Major Mohammad Bin Sahirul Ibne Riaz\n- **Deputy Director (Administration):** Major Ishtiaq Ahmed","x":680,"y":160,"width":460,"height":310,"color":"2"},
+		{"id":"army","type":"text","text":"# Army Wing\n\n- **Wing lead**\nDeputy Director (Army): Major S M Aminul Haque\n\n- **Chain:** DG BNCC → DD (Army) → Regiment Commander → battalions / companies / platoons","x":0,"y":600,"width":500,"height":220,"color":"3"},
+		{"id":"air","type":"text","text":"# Air Wing\n\n**Wing lead:** Deputy Director (Air), Squadron Leader Sagar Soikot Pitom\n\n**Chain:** DG BNCC → DD (Air) → Squadron OC → institutional platoons","x":1320,"y":600,"width":500,"height":220,"color":"5"},
+		{"id":"flotilla51","type":"text","text":"## 51 Dhaka Flotilla\n\n**Commander / OC:** Lt Cdr Faisal Bin Rashid (DD Naval and OC)\n**Listed base: Dhaka.\nWider area of operations: not specified in Wikipedia.**","x":385,"y":1475,"width":310,"height":330,"color":"#0400ff"},
+		{"id":"flotilla52","type":"text","text":"## 52 Chattogram Flotilla\n\n**Commander / OC:** Lt Tanzim Zaman Tayin, BN Cdr (OC)\n**Listed base: Chattogram.\nWider area of operations: not specified in Wikipedia.**","x":755,"y":1475,"width":310,"height":330,"color":"#0400ff"},
+		{"id":"flotilla53","type":"text","text":"## 53 Khulna Flotilla\n\n**Commander / OC:** Lt H M Abu Sakib, BN Cdr (OC)\n**Listed base: Khulna.\nWider area of operations: not specified in Wikipedia.**","x":1125,"y":1475,"width":310,"height":330,"color":"#0400ff"},
+		{"id":"bncc","type":"text","text":"# Bangladesh National Cadet Corps\n\n- **Director General**: Brigadier General Abu Sayed Al Masud\n","x":730,"y":-80,"width":360,"height":170,"color":"1"},
+		{"id":"navy","type":"text","text":"# Naval Wing\n\n-**Wing lead (Wikipedia):** Deputy Director (Naval), Lt Cdr Faisal Bin Rashid\n- **Chain:** DG BNCC → DD (Naval) → Flotilla OC → institutional platoons","x":660,"y":600,"width":500,"height":220,"color":"4"},
+		{"id":"squadron56","type":"text","text":"## 56 BNCC Squadron\n\n**Wing:** Air\n**Commander / OC:** Flt Lt Iftekhar Uddin Leemon, GD(P) (OC)\n**Listed base: Dhaka.\nWider area of operations: not specified in Wikipedia.**","x":1620,"y":1475,"width":310,"height":330,"color":"#2990ff"},
+		{"id":"squadron57","type":"text","text":"## 57 BNCC Squadron\n\n**Wing:** Air\n**Commander / OC:** Flt Lt Nahid Hasan Shuvo (OC)\n**Listed base: Chattogram.\nWider area of operations: not specified in Wikipedia.**","x":1990,"y":1475,"width":310,"height":330,"color":"#2990ff"},
+		{"id":"squadron58","type":"text","text":"## 58 BNCC Squadron\n\n**Wing:** Air\n**Commander / OC:** Flt Lt Md Al Nafiur Rahman (OC)\n**Listed base: Jessore (Jashore).\nWider area of operations: not specified in Wikipedia.**","x":2360,"y":1475,"width":310,"height":330,"color":"#2990ff"},
+		{"id":"ramna","type":"text","text":"## Ramna Regiment\n\n**Wing:** Army\n**Commander / OC:** Lt Col Muhammed Ishaque, BGBM, psc\n**Listed base: Dhaka.\nWider area of operations: not specified in Wikipedia.**","x":-1515,"y":1475,"width":310,"height":330,"color":"2"},
+		{"id":"karnaphuli","type":"text","text":"## Karnaphuli Regiment\n\n**Wing:** Army\n**Commander / OC:** Lt Col Rahat Newaz, psc\n**Listed base: Chattogram.\nWider area of operations: not specified in Wikipedia.**","x":-1175,"y":1475,"width":310,"height":330,"color":"2"},
+		{"id":"moinamati","type":"text","text":"## Moinamati Regiment\n\n**Wing:** Army\n**Commander / OC:** Lt Col Rasedul Hasan Prince, psc\n**Listed base: Cumilla.\nWider area of operations: not specified in Wikipedia.**","x":-835,"y":1475,"width":310,"height":330,"color":"2"},
+		{"id":"sundarban","type":"text","text":"## Sundarban Regiment\n\n**Wing:** Army\n**Commander / OC:** Lt Col Md Masud Rayhan, Inf.\n**Listed base: Khulna.\nWider area of operations: not specified in Wikipedia.**","x":-495,"y":1475,"width":310,"height":330,"color":"2"},
+		{"id":"mohasthan","type":"text","text":"## Mohasthan Regiment\n\n**Wing:** Army\n**Commander / OC:** Maj Abu Rifat Md Motaleb, psc\n**Listed base: Rajshahi.\nWider area of operations: not specified in Wikipedia.**","x":-155,"y":1475,"width":310,"height":330,"color":"2"},
+		{"id":"source","type":"text","text":"## Source and verification notes\n\n- [Wikipedia: Bangladesh National Cadet Corps](https://en.wikipedia.org/wiki/Bangladesh_National_Cadet_Corps) — unit bases, commanders, and proposed formations. Wikipedia is the priority source for this canvas per request.\n- [Official BNCC officers directory](https://bncc.portal.gov.bd/pages/officers) — current directorate roster, which differs from Wikipedia for Deputy Director (Naval). This canvas uses Lt Cdr Faisal Bin Rashid per Wikipedia.\n- [[BNCC draft]] — background.\n\n**Area note:** Wikipedia gives a city/base for units but does not define wider operational boundaries. Cards distinguish the listed base from an unverified area of operations. Proposed units have no commander or operational area listed.","x":1320,"y":15,"width":420,"height":300,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"bncc","fromSide":"bottom","toNode":"hq","toSide":"top","color":"2"},
+		{"id":"e2","fromNode":"hq","fromSide":"bottom","toNode":"army","toSide":"top","color":"2"},
+		{"id":"e4","fromNode":"hq","fromSide":"bottom","toNode":"air","toSide":"top","color":"2"},
+		{"id":"e6","fromNode":"army","fromSide":"bottom","toNode":"karnaphuli","toSide":"top","color":"2"},
+		{"id":"e8","fromNode":"army","fromSide":"bottom","toNode":"sundarban","toSide":"top","color":"2"},
+		{"id":"e9","fromNode":"army","fromSide":"bottom","toNode":"mohasthan","toSide":"top","color":"2"},
+		{"id":"e10","fromNode":"navy","fromSide":"bottom","toNode":"flotilla51","toSide":"top","color":"2"},
+		{"id":"e11","fromNode":"navy","fromSide":"bottom","toNode":"flotilla52","toSide":"top","color":"2"},
+		{"id":"e12","fromNode":"navy","fromSide":"bottom","toNode":"flotilla53","toSide":"top","color":"2"},
+		{"id":"e13","fromNode":"air","fromSide":"bottom","toNode":"squadron56","toSide":"top","color":"2"},
+		{"id":"e14","fromNode":"air","fromSide":"bottom","toNode":"squadron57","toSide":"top","color":"2"},
+		{"id":"e15","fromNode":"air","fromSide":"bottom","toNode":"squadron58","toSide":"top","color":"2"},
+		{"id":"e3","fromNode":"hq","fromSide":"bottom","toNode":"navy","toSide":"top","color":"2"},
+		{"id":"e5","fromNode":"army","fromSide":"bottom","toNode":"ramna","toSide":"top","color":"2"},
+		{"id":"e7","fromNode":"army","fromSide":"bottom","toNode":"moinamati","toSide":"top","color":"2"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
