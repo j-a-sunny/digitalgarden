@@ -1,42 +1,163 @@
-{
-	"nodes":[
-		{"id":"hq","type":"text","text":"## Shared Directorate positions\n\n- **Director (Training and Enrollment):** Lt Colonel Md Nahiduzzaman\n- **Director (Administration and Accounts):** Abdullah Al Baki (Deputy Secretary)\n- **Deputy Director (Coordination):** Major Mohammad Bin Sahirul Ibne Riaz\n- **Deputy Director (Administration):** Major Ishtiaq Ahmed","x":680,"y":160,"width":460,"height":310,"color":"2"},
-		{"id":"army","type":"text","text":"# Army Wing\n\n- **Wing lead**\nDeputy Director (Army): Major S M Aminul Haque\n\n- **Chain:** DG BNCC → DD (Army) → Regiment Commander → battalions / companies / platoons","x":0,"y":600,"width":500,"height":220,"color":"3"},
-		{"id":"air","type":"text","text":"# Air Wing\n\n**Wing lead:** Deputy Director (Air), Squadron Leader Sagar Soikot Pitom\n\n**Chain:** DG BNCC → DD (Air) → Squadron OC → institutional platoons","x":1320,"y":600,"width":500,"height":220,"color":"5"},
-		{"id":"flotilla51","type":"text","text":"## 51 Dhaka Flotilla\n\n**Commander / OC:** Lt Cdr Faisal Bin Rashid (DD Naval and OC)\n**Listed base: Dhaka.\nWider area of operations: not specified in Wikipedia.**","x":385,"y":1475,"width":310,"height":330,"color":"#0400ff"},
-		{"id":"flotilla52","type":"text","text":"## 52 Chattogram Flotilla\n\n**Commander / OC:** Lt Tanzim Zaman Tayin, BN Cdr (OC)\n**Listed base: Chattogram.\nWider area of operations: not specified in Wikipedia.**","x":755,"y":1475,"width":310,"height":330,"color":"#0400ff"},
-		{"id":"flotilla53","type":"text","text":"## 53 Khulna Flotilla\n\n**Commander / OC:** Lt H M Abu Sakib, BN Cdr (OC)\n**Listed base: Khulna.\nWider area of operations: not specified in Wikipedia.**","x":1125,"y":1475,"width":310,"height":330,"color":"#0400ff"},
-		{"id":"bncc","type":"text","text":"# Bangladesh National Cadet Corps\n\n- **Director General**: Brigadier General Abu Sayed Al Masud\n","x":730,"y":-80,"width":360,"height":170,"color":"1"},
-		{"id":"navy","type":"text","text":"# Naval Wing\n\n-**Wing lead (Wikipedia):** Deputy Director (Naval), Lt Cdr Faisal Bin Rashid\n- **Chain:** DG BNCC → DD (Naval) → Flotilla OC → institutional platoons","x":660,"y":600,"width":500,"height":220,"color":"4"},
-		{"id":"squadron56","type":"text","text":"## 56 BNCC Squadron\n\n**Wing:** Air\n**Commander / OC:** Flt Lt Iftekhar Uddin Leemon, GD(P) (OC)\n**Listed base: Dhaka.\nWider area of operations: not specified in Wikipedia.**","x":1620,"y":1475,"width":310,"height":330,"color":"#2990ff"},
-		{"id":"squadron57","type":"text","text":"## 57 BNCC Squadron\n\n**Wing:** Air\n**Commander / OC:** Flt Lt Nahid Hasan Shuvo (OC)\n**Listed base: Chattogram.\nWider area of operations: not specified in Wikipedia.**","x":1990,"y":1475,"width":310,"height":330,"color":"#2990ff"},
-		{"id":"squadron58","type":"text","text":"## 58 BNCC Squadron\n\n**Wing:** Air\n**Commander / OC:** Flt Lt Md Al Nafiur Rahman (OC)\n**Listed base: Jessore (Jashore).\nWider area of operations: not specified in Wikipedia.**","x":2360,"y":1475,"width":310,"height":330,"color":"#2990ff"},
-		{"id":"ramna","type":"text","text":"## Ramna Regiment\n\n**Wing:** Army\n**Commander / OC:** Lt Col Muhammed Ishaque, BGBM, psc\n**Listed base: Dhaka.\nWider area of operations: not specified in Wikipedia.**","x":-1515,"y":1475,"width":310,"height":330,"color":"2"},
-		{"id":"karnaphuli","type":"text","text":"## Karnaphuli Regiment\n\n**Wing:** Army\n**Commander / OC:** Lt Col Rahat Newaz, psc\n**Listed base: Chattogram.\nWider area of operations: not specified in Wikipedia.**","x":-1175,"y":1475,"width":310,"height":330,"color":"2"},
-		{"id":"moinamati","type":"text","text":"## Moinamati Regiment\n\n**Wing:** Army\n**Commander / OC:** Lt Col Rasedul Hasan Prince, psc\n**Listed base: Cumilla.\nWider area of operations: not specified in Wikipedia.**","x":-835,"y":1475,"width":310,"height":330,"color":"2"},
-		{"id":"sundarban","type":"text","text":"## Sundarban Regiment\n\n**Wing:** Army\n**Commander / OC:** Lt Col Md Masud Rayhan, Inf.\n**Listed base: Khulna.\nWider area of operations: not specified in Wikipedia.**","x":-495,"y":1475,"width":310,"height":330,"color":"2"},
-		{"id":"mohasthan","type":"text","text":"## Mohasthan Regiment\n\n**Wing:** Army\n**Commander / OC:** Maj Abu Rifat Md Motaleb, psc\n**Listed base: Rajshahi.\nWider area of operations: not specified in Wikipedia.**","x":-155,"y":1475,"width":310,"height":330,"color":"2"},
-		{"id":"source","type":"text","text":"## Source and verification notes\n\n- [Wikipedia: Bangladesh National Cadet Corps](https://en.wikipedia.org/wiki/Bangladesh_National_Cadet_Corps) — unit bases, commanders, and proposed formations. Wikipedia is the priority source for this canvas per request.\n- [Official BNCC officers directory](https://bncc.portal.gov.bd/pages/officers) — current directorate roster, which differs from Wikipedia for Deputy Director (Naval). This canvas uses Lt Cdr Faisal Bin Rashid per Wikipedia.\n- [[BNCC draft]] — background.\n\n**Area note:** Wikipedia gives a city/base for units but does not define wider operational boundaries. Cards distinguish the listed base from an unverified area of operations. Proposed units have no commander or operational area listed.","x":1320,"y":15,"width":420,"height":300,"color":"6"}
-	],
-	"edges":[
-		{"id":"e1","fromNode":"bncc","fromSide":"bottom","toNode":"hq","toSide":"top","color":"2"},
-		{"id":"e2","fromNode":"hq","fromSide":"bottom","toNode":"army","toSide":"top","color":"2"},
-		{"id":"e4","fromNode":"hq","fromSide":"bottom","toNode":"air","toSide":"top","color":"2"},
-		{"id":"e6","fromNode":"army","fromSide":"bottom","toNode":"karnaphuli","toSide":"top","color":"2"},
-		{"id":"e8","fromNode":"army","fromSide":"bottom","toNode":"sundarban","toSide":"top","color":"2"},
-		{"id":"e9","fromNode":"army","fromSide":"bottom","toNode":"mohasthan","toSide":"top","color":"2"},
-		{"id":"e10","fromNode":"navy","fromSide":"bottom","toNode":"flotilla51","toSide":"top","color":"2"},
-		{"id":"e11","fromNode":"navy","fromSide":"bottom","toNode":"flotilla52","toSide":"top","color":"2"},
-		{"id":"e12","fromNode":"navy","fromSide":"bottom","toNode":"flotilla53","toSide":"top","color":"2"},
-		{"id":"e13","fromNode":"air","fromSide":"bottom","toNode":"squadron56","toSide":"top","color":"2"},
-		{"id":"e14","fromNode":"air","fromSide":"bottom","toNode":"squadron57","toSide":"top","color":"2"},
-		{"id":"e15","fromNode":"air","fromSide":"bottom","toNode":"squadron58","toSide":"top","color":"2"},
-		{"id":"e3","fromNode":"hq","fromSide":"bottom","toNode":"navy","toSide":"top","color":"2"},
-		{"id":"e5","fromNode":"army","fromSide":"bottom","toNode":"ramna","toSide":"top","color":"2"},
-		{"id":"e7","fromNode":"army","fromSide":"bottom","toNode":"moinamati","toSide":"top","color":"2"}
-	],
-	"metadata":{
-		"version":"1.0-1.0",
-		"frontmatter":{}
-	}
-}
+---
+{"dg-publish":true,"permalink":"/bncc/bncc-wings-and-positions.canvas/","contentClasses":"canvas-page","created":"2026-11-13T01:25:27.481+06:00","updated":"2026-11-18T04:03:53.699+06:00","dg-note-properties":{}}
+---
+
+<div id="BNCC_Wings_and_Positionscanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-BNCC_Wings_and_Positionscanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-BNCC_Wings_and_Positionscanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-e9973f" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="#e9973f" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-e9973f-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="#e9973f" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M 910 90 C 910 140, 910 110, 910 160" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e1"  marker-end="url(#arrow-e9973f)" />
+<path d="M 910 470 C 910 739.0724809414742, 250 330.9275190585258, 250 600" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e2"  marker-end="url(#arrow-e9973f)" />
+<path d="M 910 470 C 910 739.0724809414742, 1570 330.9275190585258, 1570 600" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e4"  marker-end="url(#arrow-e9973f)" />
+<path d="M 250 820 C 250 1391.5837646399696, -1020 903.4162353600306, -1020 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e6"  marker-end="url(#arrow-e9973f)" />
+<path d="M 250 820 C 250 1172.6187743158325, -340 1122.3812256841675, -340 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e8"  marker-end="url(#arrow-e9973f)" />
+<path d="M 250 820 C 250 1100.4353757998445, 0 1194.5646242001555, 0 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e9"  marker-end="url(#arrow-e9973f)" />
+<path d="M 910 820 C 910 1120.9119472536775, 540 1174.0880527463225, 540 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e10"  marker-end="url(#arrow-e9973f)" />
+<path d="M 910 820 C 910 1082, 910 1213, 910 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e11"  marker-end="url(#arrow-e9973f)" />
+<path d="M 910 820 C 910 1120.9119472536775, 1280 1174.0880527463225, 1280 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e12"  marker-end="url(#arrow-e9973f)" />
+<path d="M 1570 820 C 1570 1094.5323296080082, 1775 1200.4676703919918, 1775 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e13"  marker-end="url(#arrow-e9973f)" />
+<path d="M 1570 820 C 1570 1168.6316107297214, 2145 1126.3683892702786, 2145 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e14"  marker-end="url(#arrow-e9973f)" />
+<path d="M 1570 820 C 1570 1279.92173247195, 2515 1015.07826752805, 2515 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e15"  marker-end="url(#arrow-e9973f)" />
+<path d="M 910 470 C 910 522, 910 548, 910 600" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e3"  marker-end="url(#arrow-e9973f)" />
+<path d="M 250 820 C 250 1515.2553487748223, -1360 779.7446512251776, -1360 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e5"  marker-end="url(#arrow-e9973f)" />
+<path d="M 250 820 C 250 1275.0032966913536, -680 1019.9967033086464, -680 1475" fill="none" stroke="#e9973f" stroke-width="2" class="canvas-edge" data-edge-id="e7"  marker-end="url(#arrow-e9973f)" />
+		</svg>
+		<div class="canvas-node canvas-node-text has-color" data-node-id="hq" style="transform: translate(680px, 160px); width: 460px; height: 310px; --canvas-color: #e9973f;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgU2hhcmVkIERpcmVjdG9yYXRlIHBvc2l0aW9ucwoKLSAqKkRpcmVjdG9yIChUcmFpbmluZyBhbmQgRW5yb2xsbWVudCk6KiogTHQgQ29sb25lbCBNZCBOYWhpZHV6emFtYW4KLSAqKkRpcmVjdG9yIChBZG1pbmlzdHJhdGlvbiBhbmQgQWNjb3VudHMpOioqIEFiZHVsbGFoIEFsIEJha2kgKERlcHV0eSBTZWNyZXRhcnkpCi0gKipEZXB1dHkgRGlyZWN0b3IgKENvb3JkaW5hdGlvbik6KiogTWFqb3IgTW9oYW1tYWQgQmluIFNhaGlydWwgSWJuZSBSaWF6Ci0gKipEZXB1dHkgRGlyZWN0b3IgKEFkbWluaXN0cmF0aW9uKToqKiBNYWpvciBJc2h0aWFxIEFobWVk"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="army" style="transform: translate(0px, 600px); width: 500px; height: 220px; --canvas-color: #e0de71;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBBcm15IFdpbmcKCi0gKipXaW5nIGxlYWQqKgpEZXB1dHkgRGlyZWN0b3IgKEFybXkpOiBNYWpvciBTIE0gQW1pbnVsIEhhcXVlCgotICoqQ2hhaW46KiogREcgQk5DQyDihpIgREQgKEFybXkpIOKGkiBSZWdpbWVudCBDb21tYW5kZXIg4oaSIGJhdHRhbGlvbnMgLyBjb21wYW5pZXMgLyBwbGF0b29ucw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="air" style="transform: translate(1320px, 600px); width: 500px; height: 220px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBBaXIgV2luZwoKKipXaW5nIGxlYWQ6KiogRGVwdXR5IERpcmVjdG9yIChBaXIpLCBTcXVhZHJvbiBMZWFkZXIgU2FnYXIgU29pa290IFBpdG9tCgoqKkNoYWluOioqIERHIEJOQ0Mg4oaSIEREIChBaXIpIOKGkiBTcXVhZHJvbiBPQyDihpIgaW5zdGl0dXRpb25hbCBwbGF0b29ucw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="flotilla51" style="transform: translate(385px, 1475px); width: 310px; height: 330px; --canvas-color: #0400ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgNTEgRGhha2EgRmxvdGlsbGEKCioqQ29tbWFuZGVyIC8gT0M6KiogTHQgQ2RyIEZhaXNhbCBCaW4gUmFzaGlkIChERCBOYXZhbCBhbmQgT0MpCioqTGlzdGVkIGJhc2U6IERoYWthLgpXaWRlciBhcmVhIG9mIG9wZXJhdGlvbnM6IG5vdCBzcGVjaWZpZWQgaW4gV2lraXBlZGlhLioq"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="flotilla52" style="transform: translate(755px, 1475px); width: 310px; height: 330px; --canvas-color: #0400ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgNTIgQ2hhdHRvZ3JhbSBGbG90aWxsYQoKKipDb21tYW5kZXIgLyBPQzoqKiBMdCBUYW56aW0gWmFtYW4gVGF5aW4sIEJOIENkciAoT0MpCioqTGlzdGVkIGJhc2U6IENoYXR0b2dyYW0uCldpZGVyIGFyZWEgb2Ygb3BlcmF0aW9uczogbm90IHNwZWNpZmllZCBpbiBXaWtpcGVkaWEuKio="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="flotilla53" style="transform: translate(1125px, 1475px); width: 310px; height: 330px; --canvas-color: #0400ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgNTMgS2h1bG5hIEZsb3RpbGxhCgoqKkNvbW1hbmRlciAvIE9DOioqIEx0IEggTSBBYnUgU2FraWIsIEJOIENkciAoT0MpCioqTGlzdGVkIGJhc2U6IEtodWxuYS4KV2lkZXIgYXJlYSBvZiBvcGVyYXRpb25zOiBub3Qgc3BlY2lmaWVkIGluIFdpa2lwZWRpYS4qKg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="bncc" style="transform: translate(730px, -80px); width: 360px; height: 170px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBCYW5nbGFkZXNoIE5hdGlvbmFsIENhZGV0IENvcnBzCgotICoqRGlyZWN0b3IgR2VuZXJhbCoqOiBCcmlnYWRpZXIgR2VuZXJhbCBBYnUgU2F5ZWQgQWwgTWFzdWQK"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="navy" style="transform: translate(660px, 600px); width: 500px; height: 220px; --canvas-color: #44cf6e;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBOYXZhbCBXaW5nCgotKipXaW5nIGxlYWQgKFdpa2lwZWRpYSk6KiogRGVwdXR5IERpcmVjdG9yIChOYXZhbCksIEx0IENkciBGYWlzYWwgQmluIFJhc2hpZAotICoqQ2hhaW46KiogREcgQk5DQyDihpIgREQgKE5hdmFsKSDihpIgRmxvdGlsbGEgT0Mg4oaSIGluc3RpdHV0aW9uYWwgcGxhdG9vbnM="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="squadron56" style="transform: translate(1620px, 1475px); width: 310px; height: 330px; --canvas-color: #2990ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgNTYgQk5DQyBTcXVhZHJvbgoKKipXaW5nOioqIEFpcgoqKkNvbW1hbmRlciAvIE9DOioqIEZsdCBMdCBJZnRla2hhciBVZGRpbiBMZWVtb24sIEdEKFApIChPQykKKipMaXN0ZWQgYmFzZTogRGhha2EuCldpZGVyIGFyZWEgb2Ygb3BlcmF0aW9uczogbm90IHNwZWNpZmllZCBpbiBXaWtpcGVkaWEuKio="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="squadron57" style="transform: translate(1990px, 1475px); width: 310px; height: 330px; --canvas-color: #2990ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgNTcgQk5DQyBTcXVhZHJvbgoKKipXaW5nOioqIEFpcgoqKkNvbW1hbmRlciAvIE9DOioqIEZsdCBMdCBOYWhpZCBIYXNhbiBTaHV2byAoT0MpCioqTGlzdGVkIGJhc2U6IENoYXR0b2dyYW0uCldpZGVyIGFyZWEgb2Ygb3BlcmF0aW9uczogbm90IHNwZWNpZmllZCBpbiBXaWtpcGVkaWEuKio="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="squadron58" style="transform: translate(2360px, 1475px); width: 310px; height: 330px; --canvas-color: #2990ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgNTggQk5DQyBTcXVhZHJvbgoKKipXaW5nOioqIEFpcgoqKkNvbW1hbmRlciAvIE9DOioqIEZsdCBMdCBNZCBBbCBOYWZpdXIgUmFobWFuIChPQykKKipMaXN0ZWQgYmFzZTogSmVzc29yZSAoSmFzaG9yZSkuCldpZGVyIGFyZWEgb2Ygb3BlcmF0aW9uczogbm90IHNwZWNpZmllZCBpbiBXaWtpcGVkaWEuKio="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="ramna" style="transform: translate(-1515px, 1475px); width: 310px; height: 330px; --canvas-color: #e9973f;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgUmFtbmEgUmVnaW1lbnQKCioqV2luZzoqKiBBcm15CioqQ29tbWFuZGVyIC8gT0M6KiogTHQgQ29sIE11aGFtbWVkIElzaGFxdWUsIEJHQk0sIHBzYwoqKkxpc3RlZCBiYXNlOiBEaGFrYS4KV2lkZXIgYXJlYSBvZiBvcGVyYXRpb25zOiBub3Qgc3BlY2lmaWVkIGluIFdpa2lwZWRpYS4qKg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="karnaphuli" style="transform: translate(-1175px, 1475px); width: 310px; height: 330px; --canvas-color: #e9973f;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgS2FybmFwaHVsaSBSZWdpbWVudAoKKipXaW5nOioqIEFybXkKKipDb21tYW5kZXIgLyBPQzoqKiBMdCBDb2wgUmFoYXQgTmV3YXosIHBzYwoqKkxpc3RlZCBiYXNlOiBDaGF0dG9ncmFtLgpXaWRlciBhcmVhIG9mIG9wZXJhdGlvbnM6IG5vdCBzcGVjaWZpZWQgaW4gV2lraXBlZGlhLioq"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="moinamati" style="transform: translate(-835px, 1475px); width: 310px; height: 330px; --canvas-color: #e9973f;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgTW9pbmFtYXRpIFJlZ2ltZW50CgoqKldpbmc6KiogQXJteQoqKkNvbW1hbmRlciAvIE9DOioqIEx0IENvbCBSYXNlZHVsIEhhc2FuIFByaW5jZSwgcHNjCioqTGlzdGVkIGJhc2U6IEN1bWlsbGEuCldpZGVyIGFyZWEgb2Ygb3BlcmF0aW9uczogbm90IHNwZWNpZmllZCBpbiBXaWtpcGVkaWEuKio="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="sundarban" style="transform: translate(-495px, 1475px); width: 310px; height: 330px; --canvas-color: #e9973f;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgU3VuZGFyYmFuIFJlZ2ltZW50CgoqKldpbmc6KiogQXJteQoqKkNvbW1hbmRlciAvIE9DOioqIEx0IENvbCBNZCBNYXN1ZCBSYXloYW4sIEluZi4KKipMaXN0ZWQgYmFzZTogS2h1bG5hLgpXaWRlciBhcmVhIG9mIG9wZXJhdGlvbnM6IG5vdCBzcGVjaWZpZWQgaW4gV2lraXBlZGlhLioq"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="mohasthan" style="transform: translate(-155px, 1475px); width: 310px; height: 330px; --canvas-color: #e9973f;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgTW9oYXN0aGFuIFJlZ2ltZW50CgoqKldpbmc6KiogQXJteQoqKkNvbW1hbmRlciAvIE9DOioqIE1haiBBYnUgUmlmYXQgTWQgTW90YWxlYiwgcHNjCioqTGlzdGVkIGJhc2U6IFJhanNoYWhpLgpXaWRlciBhcmVhIG9mIG9wZXJhdGlvbnM6IG5vdCBzcGVjaWZpZWQgaW4gV2lraXBlZGlhLioq"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="source" style="transform: translate(1320px, 15px); width: 420px; height: 300px; --canvas-color: #a882ff;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgU291cmNlIGFuZCB2ZXJpZmljYXRpb24gbm90ZXMKCi0gW1dpa2lwZWRpYTogQmFuZ2xhZGVzaCBOYXRpb25hbCBDYWRldCBDb3Jwc10oaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQmFuZ2xhZGVzaF9OYXRpb25hbF9DYWRldF9Db3Jwcykg4oCUIHVuaXQgYmFzZXMsIGNvbW1hbmRlcnMsIGFuZCBwcm9wb3NlZCBmb3JtYXRpb25zLiBXaWtpcGVkaWEgaXMgdGhlIHByaW9yaXR5IHNvdXJjZSBmb3IgdGhpcyBjYW52YXMgcGVyIHJlcXVlc3QuCi0gW09mZmljaWFsIEJOQ0Mgb2ZmaWNlcnMgZGlyZWN0b3J5XShodHRwczovL2JuY2MucG9ydGFsLmdvdi5iZC9wYWdlcy9vZmZpY2Vycykg4oCUIGN1cnJlbnQgZGlyZWN0b3JhdGUgcm9zdGVyLCB3aGljaCBkaWZmZXJzIGZyb20gV2lraXBlZGlhIGZvciBEZXB1dHkgRGlyZWN0b3IgKE5hdmFsKS4gVGhpcyBjYW52YXMgdXNlcyBMdCBDZHIgRmFpc2FsIEJpbiBSYXNoaWQgcGVyIFdpa2lwZWRpYS4KLSBbW0JOQ0MvQk5DQyBkcmFmdFx8Qk5DQyBkcmFmdF1dIOKAlCBiYWNrZ3JvdW5kLgoKKipBcmVhIG5vdGU6KiogV2lraXBlZGlhIGdpdmVzIGEgY2l0eS9iYXNlIGZvciB1bml0cyBidXQgZG9lcyBub3QgZGVmaW5lIHdpZGVyIG9wZXJhdGlvbmFsIGJvdW5kYXJpZXMuIENhcmRzIGRpc3Rpbmd1aXNoIHRoZSBsaXN0ZWQgYmFzZSBmcm9tIGFuIHVudmVyaWZpZWQgYXJlYSBvZiBvcGVyYXRpb25zLiBQcm9wb3NlZCB1bml0cyBoYXZlIG5vIGNvbW1hbmRlciBvciBvcGVyYXRpb25hbCBhcmVhIGxpc3RlZC4="></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
