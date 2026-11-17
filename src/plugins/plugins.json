@@ -155,6 +155,18 @@
         "src/plugins/home-graph/templates/homeGraphScript.njk",
         "src/plugins/home-graph/test/graph-data.node-test.mjs"
       ]
+    },
+    "giscus-comments": {
+      "repo": "oleeskild/garden-plugin-giscus-comments",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-11-17T18:31:28.824Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/giscus-comments/README.md",
+        "src/plugins/giscus-comments/garden-plugin.json",
+        "src/plugins/giscus-comments/templates/comments.njk"
+      ]
     }
   }
 }
