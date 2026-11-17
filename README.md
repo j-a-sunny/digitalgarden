@@ -37,6 +37,8 @@ Use Cloudflare's Git integration (Workers & Pages > Create > Pages > Connect to 
 
 No environment variables are needed. Pages injects `CF_PAGES_URL`, the URL of the deployment being built, so canonical links, the sitemap and the feed point at `digitalgarden.pages.dev` in production and at each preview URL for branch and pull request builds. Set `SITE_BASE_URL` under Settings > Environment variables only if you later serve the site from a custom domain, and set it for both the production and preview environments since Pages stores them separately.
 
+`src/site/_headers` is copied to the output root, where Pages (and Netlify) read it and never serve it: HTML is revalidated on every request so a new deploy is visible immediately, while `img/optimized/*` renditions are pinned for a year because their filenames carry a hash of the source image. Pages joins the headers of all matching rules, so a narrower rule detaches `Cache-Control` with `! Cache-Control` before setting its own value.
+
 The `get-theme` step downloads the Obsidian theme during the build, so the build host needs outbound network access (Cloudflare's does).
 
 ---

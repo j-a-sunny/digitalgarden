@@ -1,0 +1,16 @@
+# Parsed by Cloudflare Pages (and Netlify) out of the build output root; the
+# file itself is never served. Rules are applied in file order and the headers
+# of every matching rule are joined, so a narrower rule has to detach
+# Cache-Control before setting its own value - otherwise the directives from
+# the rule it narrows get appended and conflict.
+
+# Every page is a fresh deploy's output, so let it show up on the next request
+# instead of after a stale copy expires. This also covers HTML that is a note.
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Image renditions are named after a hash of their source, so an edited image
+# is always a new URL and these can be pinned for a year.
+/img/optimized/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
