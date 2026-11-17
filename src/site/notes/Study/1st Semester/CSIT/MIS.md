@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/mis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/mis/","created":"2026-09-11T22:34:24.525+06:00","updated":"2026-07-04T02:19:48.000+06:00","dg-note-properties":{}}
 ---
 
 A Management Information System (MIS) is a technology-driven framework that collects, processes, stores, and analyzes business data to aid decision-making, improve efficiency, and enhance organizational performance. It acts as a bridge between business processes and computing, providing managers with reports to monitor, control, and plan operations.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/accounting/chapter-2-the-recording-process/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/accounting/chapter-2-the-recording-process/","created":"2026-09-11T22:34:24.545+06:00","updated":"2026-07-04T02:20:14.000+06:00","dg-note-properties":{}}
 ---
 
 ## Part 1: The Account and T-Account Mechanics

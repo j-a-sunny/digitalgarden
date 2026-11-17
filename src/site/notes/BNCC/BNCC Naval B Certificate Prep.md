@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bncc/bncc-naval-b-certificate-prep/","title":"BNCC Naval Wing B Certificate Prep","tags":["bncc","exam-prep","naval-wing"],"dg-note-properties":{"title":"BNCC Naval Wing B Certificate Prep","tags":["bncc","exam-prep","naval-wing"],"created":"2026-11-13","updated":"2026-11-13","related":"[[BNCC/BNCC draft]]"}}
+{"dg-publish":true,"permalink":"/bncc/bncc-naval-b-certificate-prep/","title":"BNCC Naval Wing B Certificate Prep","tags":["bncc","exam-prep","naval-wing"],"created":"2026-11-13T00:38:15.190+06:00","updated":"2026-11-13T16:05:40.000+06:00","dg-note-properties":{"title":"BNCC Naval Wing B Certificate Prep","tags":["bncc","exam-prep","naval-wing"],"created":"2026-11-13","updated":"2026-11-13","related":"[[BNCC/BNCC draft]]"}}
 ---
 
 

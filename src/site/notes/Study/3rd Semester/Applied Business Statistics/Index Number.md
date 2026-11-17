@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/index-number/","title":"Index Numbers","tags":["study","applied-business-statistics","index-number","laspeyres","paasche","fisher"],"dg-note-properties":{"title":"Index Numbers","course":"Applied Business Statistics","semester":3,"source":"[[Index Number.pdf]]","tags":["study","applied-business-statistics","index-number","laspeyres","paasche","fisher"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/index-number/","title":"Index Numbers","tags":["study","applied-business-statistics","index-number","laspeyres","paasche","fisher"],"created":"2026-11-07T18:00:10.168+06:00","updated":"2026-11-07T12:00:10.000+06:00","dg-note-properties":{"title":"Index Numbers","course":"Applied Business Statistics","semester":3,"source":"[[Index Number.pdf]]","tags":["study","applied-business-statistics","index-number","laspeyres","paasche","fisher"]}}
 ---
 
 

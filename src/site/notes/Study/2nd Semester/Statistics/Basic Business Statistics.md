@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/statistics/basic-business-statistics/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/statistics/basic-business-statistics/","created":"2026-09-11T22:34:24.537+06:00","updated":"2026-07-04T22:40:52.000+06:00","dg-note-properties":{}}
 ---
 
 **Course Instructor:** Md. Mehedi Hasan Sikdar, Professor, Department of Statistics, PSTU.

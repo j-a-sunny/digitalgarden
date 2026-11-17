@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/pm/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/linux/pm/","created":"2026-09-11T22:34:24.516+06:00","updated":"2026-07-04T02:32:54.000+06:00","dg-note-properties":{}}
 ---
 
 ```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-2-company-and-marketing-strategy/","title":"Chapter 2 - Company and Marketing Strategy","tags":["study","marketing","chapter-2","strategy"],"dg-note-properties":{"title":"Chapter 2 - Company and Marketing Strategy","subject":"Marketing","semester":"3rd Semester","source":"Chapter 2 Company and Marketing Strategy.pdf","tags":["study","marketing","chapter-2","strategy"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-2-company-and-marketing-strategy/","title":"Chapter 2 - Company and Marketing Strategy","tags":["study","marketing","chapter-2","strategy"],"created":"2026-11-03T13:29:41.874+06:00","updated":"2026-11-13T16:24:14.000+06:00","dg-note-properties":{"title":"Chapter 2 - Company and Marketing Strategy","subject":"Marketing","semester":"3rd Semester","source":"Chapter 2 Company and Marketing Strategy.pdf","tags":["study","marketing","chapter-2","strategy"]}}
 ---
 
 

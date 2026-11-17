@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/intermediate-accounting/partnership-accounting-bangladesh-lecture-note-05-11-2026/","title":"Partnership Accounting (Bangladesh) - Lecture Note 05/11/2026","tags":["study","intermediate-accounting","partnership","realisation-account","goodwill"],"dg-note-properties":{"title":"Partnership Accounting (Bangladesh) - Lecture Note 05/11/2026","subject":"Intermediate Accounting","semester":"3rd Semester","source":"Partnership_Accounting_Bangladesh_Lecture_Note_05_11_2026.pdf","tags":["study","intermediate-accounting","partnership","realisation-account","goodwill"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/intermediate-accounting/partnership-accounting-bangladesh-lecture-note-05-11-2026/","title":"Partnership Accounting (Bangladesh) - Lecture Note 05/11/2026","tags":["study","intermediate-accounting","partnership","realisation-account","goodwill"],"created":"2026-11-10T04:47:54.049+06:00","updated":"2026-11-10T04:47:54.000+06:00","dg-note-properties":{"title":"Partnership Accounting (Bangladesh) - Lecture Note 05/11/2026","subject":"Intermediate Accounting","semester":"3rd Semester","source":"Partnership_Accounting_Bangladesh_Lecture_Note_05_11_2026.pdf","tags":["study","intermediate-accounting","partnership","realisation-account","goodwill"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/3-binomial-distribution/","title":"Binomial Distribution","tags":["study","applied-business-statistics","probability","binomial"],"dg-note-properties":{"title":"Binomial Distribution","course":"Applied Business Statistics","semester":3,"source":"[[3 Binomial Distribution.pdf]]","tags":["study","applied-business-statistics","probability","binomial"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/3-binomial-distribution/","title":"Binomial Distribution","tags":["study","applied-business-statistics","probability","binomial"],"created":"2026-11-07T17:56:35.768+06:00","updated":"2026-11-07T11:56:34.000+06:00","dg-note-properties":{"title":"Binomial Distribution","course":"Applied Business Statistics","semester":3,"source":"[[3 Binomial Distribution.pdf]]","tags":["study","applied-business-statistics","probability","binomial"]}}
 ---
 
 

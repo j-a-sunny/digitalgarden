@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/4-poisson-distribution/","title":"Poisson Distribution","tags":["study","applied-business-statistics","probability","poisson"],"dg-note-properties":{"title":"Poisson Distribution","course":"Applied Business Statistics","semester":3,"source":"[[4 Poisson Distribution.pdf]]","tags":["study","applied-business-statistics","probability","poisson"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/4-poisson-distribution/","title":"Poisson Distribution","tags":["study","applied-business-statistics","probability","poisson"],"created":"2026-11-07T17:56:52.744+06:00","updated":"2026-11-07T11:56:52.000+06:00","dg-note-properties":{"title":"Poisson Distribution","course":"Applied Business Statistics","semester":3,"source":"[[4 Poisson Distribution.pdf]]","tags":["study","applied-business-statistics","probability","poisson"]}}
 ---
 
 

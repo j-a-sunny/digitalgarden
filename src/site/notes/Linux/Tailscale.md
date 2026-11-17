@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/tailscale/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/linux/tailscale/","created":"2026-09-11T22:34:24.516+06:00","updated":"2026-07-04T02:32:44.000+06:00","dg-note-properties":{}}
 ---
 
 ```

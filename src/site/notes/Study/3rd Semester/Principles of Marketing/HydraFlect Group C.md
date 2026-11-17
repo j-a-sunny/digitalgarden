@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/hydra-flect-group-c/","title":"HydraFlect Group C (presentation)","tags":["study","marketing","group-project","hydraflect","presentation"],"dg-note-properties":{"title":"HydraFlect Group C (presentation)","subject":"Marketing","semester":"3rd Semester","source":"HydraFlect Group C.pptx","tags":["study","marketing","group-project","hydraflect","presentation"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/hydra-flect-group-c/","title":"HydraFlect Group C (presentation)","tags":["study","marketing","group-project","hydraflect","presentation"],"created":"2026-11-10T04:40:15.322+06:00","updated":"2026-11-10T04:40:14.000+06:00","dg-note-properties":{"title":"HydraFlect Group C (presentation)","subject":"Marketing","semester":"3rd Semester","source":"HydraFlect Group C.pptx","tags":["study","marketing","group-project","hydraflect","presentation"]}}
 ---
 
 

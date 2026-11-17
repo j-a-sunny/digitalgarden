@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/fix-for-kio-g-drive/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/linux/fix-for-kio-g-drive/","created":"2026-09-11T22:34:24.517+06:00","updated":"2026-07-09T23:56:52.000+06:00","dg-note-properties":{}}
 ---
 
 ```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resume/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/resume/","created":"2026-10-20T13:20:11.623+06:00","updated":"2026-10-20T13:29:52.000+06:00","dg-note-properties":{}}
 ---
 
 

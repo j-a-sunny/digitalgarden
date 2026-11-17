@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/finance/chapter-2-time-value-of-money/","title":"Chapter 2 - Time Value of Money","tags":["study","managerial-finance","time-value-of-money","annuity","amortization"],"dg-note-properties":{"title":"Chapter 2 - Time Value of Money","subject":"Managerial Finance","semester":"3rd Semester","source":"BBA chapter-2 Time Value of Money.pptx","tags":["study","managerial-finance","time-value-of-money","annuity","amortization"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/finance/chapter-2-time-value-of-money/","title":"Chapter 2 - Time Value of Money","tags":["study","managerial-finance","time-value-of-money","annuity","amortization"],"created":"2026-11-16T18:33:20.390+06:00","updated":"2026-11-16T18:33:20.000+06:00","dg-note-properties":{"title":"Chapter 2 - Time Value of Money","subject":"Managerial Finance","semester":"3rd Semester","source":"BBA chapter-2 Time Value of Money.pptx","tags":["study","managerial-finance","time-value-of-money","annuity","amortization"]}}
 ---
 
 

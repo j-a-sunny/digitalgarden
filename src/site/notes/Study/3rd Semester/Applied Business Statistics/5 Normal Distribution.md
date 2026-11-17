@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/5-normal-distribution/","title":"Normal Distribution","tags":["study","applied-business-statistics","probability","normal-distribution"],"dg-note-properties":{"title":"Normal Distribution","course":"Applied Business Statistics","semester":3,"source":"[[5 Normal Distribution.pdf]]","tags":["study","applied-business-statistics","probability","normal-distribution"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/5-normal-distribution/","title":"Normal Distribution","tags":["study","applied-business-statistics","probability","normal-distribution"],"created":"2026-11-07T18:00:01.575+06:00","updated":"2026-11-07T12:00:00.000+06:00","dg-note-properties":{"title":"Normal Distribution","course":"Applied Business Statistics","semester":3,"source":"[[5 Normal Distribution.pdf]]","tags":["study","applied-business-statistics","probability","normal-distribution"]}}
 ---
 
 

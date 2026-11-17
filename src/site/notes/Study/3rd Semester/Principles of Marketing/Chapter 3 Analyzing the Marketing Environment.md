@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-3-analyzing-the-marketing-environment/","title":"Chapter 3 - Analyzing the Marketing Environment","tags":["study","marketing","chapter-3","marketing-environment"],"dg-note-properties":{"title":"Chapter 3 - Analyzing the Marketing Environment","subject":"Marketing","semester":"3rd Semester","source":"Chapter 3 Analyzing the Marketing Environment.pdf","tags":["study","marketing","chapter-3","marketing-environment"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-3-analyzing-the-marketing-environment/","title":"Chapter 3 - Analyzing the Marketing Environment","tags":["study","marketing","chapter-3","marketing-environment"],"created":"2026-11-10T13:35:34.371+06:00","updated":"2026-11-10T13:35:34.000+06:00","dg-note-properties":{"title":"Chapter 3 - Analyzing the Marketing Environment","subject":"Marketing","semester":"3rd Semester","source":"Chapter 3 Analyzing the Marketing Environment.pdf","tags":["study","marketing","chapter-3","marketing-environment"]}}
 ---
 
 

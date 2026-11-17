@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/kms/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/kms/","created":"2026-09-11T22:34:24.526+06:00","updated":"2026-07-04T02:19:46.000+06:00","dg-note-properties":{}}
 ---
 
 A **Knowledge Management System (KMS)** in business is a technology-based platform or set of processes designed to capture, store, organize, and share an organization's collective information, expertise, and documents. It acts as a central repository, enhancing productivity by making it easy for employees to retrieve critical knowledge.

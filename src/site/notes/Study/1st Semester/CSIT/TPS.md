@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/tps/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/tps/","created":"2026-09-11T22:34:24.525+06:00","updated":"2026-07-04T02:19:56.000+06:00","dg-note-properties":{}}
 ---
 
 A Transaction Processing System (TPS) in business is ==an information system that captures, processes, stores, and retrieves data from routine, day-to-day operational transactions==. It ensures accuracy and speed in handling activities like sales, inventory updates, payroll, or bank transfers, providing a foundation for higher-level management systems.

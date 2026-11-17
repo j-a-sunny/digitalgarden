@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/mathematics/question-bank/semester-final/question-bank-solve/","title":"You said Solve these questions with fully detailed...","tags":["clippings"],"dg-note-properties":{"title":"You said Solve these questions with fully detailed...","source":"https://gemini.google.com/app/76470150db78d31a","author":null,"published":null,"created":"2026-09-20","description":"Gemini conversation with 6 messages","tags":["clippings"]}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/mathematics/question-bank/semester-final/question-bank-solve/","title":"You said Solve these questions with fully detailed...","tags":["clippings"],"created":"2026-10-20T11:48:00.458+06:00","updated":"2026-10-20T11:48:00.000+06:00","dg-note-properties":{"title":"You said Solve these questions with fully detailed...","source":"https://gemini.google.com/app/76470150db78d31a","author":null,"published":null,"created":"2026-09-20","description":"Gemini conversation with 6 messages","tags":["clippings"]}}
 ---
 
 ![Pasted image 20260921000021.png](/img/user/Study/2nd%20Semester/Mathematics/Attachments/Pasted%20image%2020260921000021.png)

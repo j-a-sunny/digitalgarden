@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/mkt-grp-c/","title":"MKT Grp-C - New Product Development and its Marketing (HydraFlect report)","tags":["study","marketing","group-project","hydraflect","new-product-development"],"dg-note-properties":{"title":"MKT Grp-C - New Product Development and its Marketing (HydraFlect report)","subject":"Marketing","semester":"3rd Semester","source":"MKT Grp-C.pdf","tags":["study","marketing","group-project","hydraflect","new-product-development"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/mkt-grp-c/","title":"MKT Grp-C - New Product Development and its Marketing (HydraFlect report)","tags":["study","marketing","group-project","hydraflect","new-product-development"],"created":"2026-11-10T04:39:49.650+06:00","updated":"2026-11-10T04:39:48.000+06:00","dg-note-properties":{"title":"MKT Grp-C - New Product Development and its Marketing (HydraFlect report)","subject":"Marketing","semester":"3rd Semester","source":"MKT Grp-C.pdf","tags":["study","marketing","group-project","hydraflect","new-product-development"]}}
 ---
 
 

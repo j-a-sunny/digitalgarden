@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/erp/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/erp/","created":"2026-09-11T22:34:24.525+06:00","updated":"2026-07-04T02:19:42.000+06:00","dg-note-properties":{}}
 ---
 
 **Enterprise Resource Planning** (ERP) is a type of software system used by organizations to manage and integrate the essential parts of their businesses.

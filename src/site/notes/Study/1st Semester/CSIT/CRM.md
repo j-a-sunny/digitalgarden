@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/crm/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/crm/","created":"2026-09-11T22:34:24.523+06:00","updated":"2026-07-04T02:19:18.000+06:00","dg-note-properties":{}}
 ---
 
 Customer Relationship Management ([[Study/1st Semester/CSIT/CRM\|CRM]]) is a technology, strategy, and set of practices used by businesses to manage, analyze, and optimize interactions with existing and potential customers throughout their life cycle. It centralizes data from sales, marketing, and customer service to improve relationships, drive sales growth, and enhance customer retention.

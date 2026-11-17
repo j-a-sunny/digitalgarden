@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agents-2/","title":"AGENTS","tags":["meta","ai-agents"],"dg-note-properties":{"title":"AGENTS","tags":["meta","ai-agents"]}}
+{"dg-publish":true,"permalink":"/agents-2/","title":"AGENTS","tags":["meta","ai-agents"],"created":"2026-11-17T14:28:38.673+06:00","updated":"2026-11-17T14:28:38.675+06:00","dg-note-properties":{"title":"AGENTS","tags":["meta","ai-agents"]}}
 ---
 
 

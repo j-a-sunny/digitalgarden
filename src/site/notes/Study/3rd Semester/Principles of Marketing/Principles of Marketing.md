@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/principles-of-marketing/","title":"Principles of Marketing (index)","tags":["study","marketing","index"],"dg-note-properties":{"title":"Principles of Marketing (index)","subject":"Marketing","semester":"3rd Semester","tags":["study","marketing","index"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/principles-of-marketing/","title":"Principles of Marketing (index)","tags":["study","marketing","index"],"created":"2026-11-10T13:35:31.934+06:00","updated":"2026-11-10T13:35:30.000+06:00","dg-note-properties":{"title":"Principles of Marketing (index)","subject":"Marketing","semester":"3rd Semester","tags":["study","marketing","index"]}}
 ---
 
 

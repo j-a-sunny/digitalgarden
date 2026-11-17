@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/management/scientific-management/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/management/scientific-management/","created":"2026-09-11T22:34:24.541+06:00","updated":"2026-07-04T02:20:58.000+06:00","dg-note-properties":{}}
 ---
 
 ## 1. Scientific Management

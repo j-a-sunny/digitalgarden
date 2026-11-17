@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/1739799506338-test-of-hypothesis/","title":"Test of Hypothesis","tags":["study","applied-business-statistics","hypothesis-testing","t-test","chi-square","f-test"],"dg-note-properties":{"title":"Test of Hypothesis","course":"Applied Business Statistics","semester":3,"source":"[[1739799506338_Test of hypothesis.pdf]]","tags":["study","applied-business-statistics","hypothesis-testing","t-test","chi-square","f-test"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/1739799506338-test-of-hypothesis/","title":"Test of Hypothesis","tags":["study","applied-business-statistics","hypothesis-testing","t-test","chi-square","f-test"],"created":"2026-11-07T17:57:49.505+06:00","updated":"2026-11-07T11:57:48.000+06:00","dg-note-properties":{"title":"Test of Hypothesis","course":"Applied Business Statistics","semester":3,"source":"[[1739799506338_Test of hypothesis.pdf]]","tags":["study","applied-business-statistics","hypothesis-testing","t-test","chi-square","f-test"]}}
 ---
 
 

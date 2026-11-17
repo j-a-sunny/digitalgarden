@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/pcs/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/pcs/","created":"2026-09-11T22:34:24.524+06:00","updated":"2026-07-04T02:19:52.000+06:00","dg-note-properties":{}}
 ---
 
 A process control system (PCS) is a set of technologies, including sensors, controllers, and actuators, that monitor and adjust industrial variables—such as temperature, pressure, or flow rates—in real-time to maintain optimal, safe, and consistent production. These systems automate manufacturing operations, ensuring they adhere to predefined parameters and reducing human error.

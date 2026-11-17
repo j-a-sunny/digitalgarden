@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/inflation-effects-and-control-measures/","tags":["study","economics","macroeconomics"],"dg-note-properties":{"tags":["study","economics","macroeconomics"],"semester":"3rd","source":"handwritten class notes","lecturer":"Shubhamangin Sir"}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/inflation-effects-and-control-measures/","tags":["study","economics","macroeconomics"],"created":"2026-11-11T19:19:24.744+06:00","updated":"2026-11-13T16:14:26.000+06:00","dg-note-properties":{"tags":["study","economics","macroeconomics"],"semester":"3rd","source":"handwritten class notes","lecturer":"Shubhamangin Sir"}}
 ---
 
 # Inflation: Effects and Control Measures

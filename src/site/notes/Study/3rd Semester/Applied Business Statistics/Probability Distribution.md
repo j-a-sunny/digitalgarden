@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/probability-distribution/","title":"Probability Distribution (short sheet)","tags":["study","applied-business-statistics","probability","binomial","poisson","normal-distribution"],"dg-note-properties":{"title":"Probability Distribution (short sheet)","course":"Applied Business Statistics","semester":3,"source":"[[Probability Distribution(1).pdf]]","tags":["study","applied-business-statistics","probability","binomial","poisson","normal-distribution"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/probability-distribution/","title":"Probability Distribution (short sheet)","tags":["study","applied-business-statistics","probability","binomial","poisson","normal-distribution"],"created":"2026-11-11T19:12:38.839+06:00","updated":"2026-11-11T19:12:38.000+06:00","dg-note-properties":{"title":"Probability Distribution (short sheet)","course":"Applied Business Statistics","semester":3,"source":"[[Probability Distribution(1).pdf]]","tags":["study","applied-business-statistics","probability","binomial","poisson","normal-distribution"]}}
 ---
 
 

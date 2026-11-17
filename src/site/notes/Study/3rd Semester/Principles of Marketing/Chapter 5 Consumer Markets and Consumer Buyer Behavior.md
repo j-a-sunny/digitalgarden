@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-5-consumer-markets-and-consumer-buyer-behavior/","title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"],"dg-note-properties":{"title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","subject":"Marketing","semester":"3rd Semester","source":"Chapter 5 Consumer Markets and Consumer Buyer Behavior.pdf","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-5-consumer-markets-and-consumer-buyer-behavior/","title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"],"created":"2026-11-10T13:35:37.974+06:00","updated":"2026-11-10T13:35:36.000+06:00","dg-note-properties":{"title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","subject":"Marketing","semester":"3rd Semester","source":"Chapter 5 Consumer Markets and Consumer Buyer Behavior.pdf","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"]}}
 ---
 
 

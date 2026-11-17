@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/management/mid-suggestion/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/management/mid-suggestion/","created":"2026-09-11T22:34:24.541+06:00","updated":"2026-07-04T02:20:56.000+06:00","dg-note-properties":{}}
 ---
 
 ## 1. What is Planning? & The Future of Planning

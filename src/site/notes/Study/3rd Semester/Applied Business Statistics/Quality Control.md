@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/quality-control/","title":"Statistical Quality Control","tags":["study","applied-business-statistics","quality-control","control-charts","acceptance-sampling"],"dg-note-properties":{"title":"Statistical Quality Control","course":"Applied Business Statistics","semester":3,"source":"[[Quality Control.pdf]]","tags":["study","applied-business-statistics","quality-control","control-charts","acceptance-sampling"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/quality-control/","title":"Statistical Quality Control","tags":["study","applied-business-statistics","quality-control","control-charts","acceptance-sampling"],"created":"2026-11-07T17:59:51.977+06:00","updated":"2026-11-07T11:59:50.000+06:00","dg-note-properties":{"title":"Statistical Quality Control","course":"Applied Business Statistics","semester":3,"source":"[[Quality Control.pdf]]","tags":["study","applied-business-statistics","quality-control","control-charts","acceptance-sampling"]}}
 ---
 
 

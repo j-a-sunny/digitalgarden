@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/pos/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/pos/","created":"2026-09-11T22:34:24.526+06:00","updated":"2026-07-04T02:19:54.000+06:00","dg-note-properties":{}}
 ---
 
 **POS**, or **Point of Sale**, refers to the time and place where a retail transaction is completed, acting as the modern, digital equivalent of a cash register. It combines hardware (terminals, scanners) and software to process payments, track inventory, manage sales data, and often handle customer loyalty programs. 

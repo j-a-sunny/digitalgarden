@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/introduction-to-macroeconomics/","tags":["study","economics","macroeconomics"],"dg-note-properties":{"tags":["study","economics","macroeconomics"],"semester":"3rd","source":"1_introduction-of-macro-economics.ppt","lecturer":"Dr. Anup Kumar Mandal (Dept. of Economics and Sociology)"}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/introduction-to-macroeconomics/","tags":["study","economics","macroeconomics"],"created":"2026-10-14T01:41:57.208+06:00","updated":"2026-11-10T04:52:06.000+06:00","dg-note-properties":{"tags":["study","economics","macroeconomics"],"semester":"3rd","source":"1_introduction-of-macro-economics.ppt","lecturer":"Dr. Anup Kumar Mandal (Dept. of Economics and Sociology)"}}
 ---
 
 You can find the .pptx [here](https://docs.google.com/presentation/d/1H_O38DsBboh6iyck4qiEjBmciRTaLDR1/edit?usp=drive_link&ouid=109482788060291762469&rtpof=true&sd=true)

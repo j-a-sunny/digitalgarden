@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/1-rv-pmf-cdf-pdf-cdf/","title":"Random Variables, PMF, PDF and CDF","tags":["study","applied-business-statistics","probability","random-variable"],"dg-note-properties":{"title":"Random Variables, PMF, PDF and CDF","course":"Applied Business Statistics","semester":3,"source":"[[1 RV PMF CDF PDF CDF.pdf]]","tags":["study","applied-business-statistics","probability","random-variable"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/1-rv-pmf-cdf-pdf-cdf/","title":"Random Variables, PMF, PDF and CDF","tags":["study","applied-business-statistics","probability","random-variable"],"created":"2026-11-07T17:56:07.980+06:00","updated":"2026-11-07T11:56:06.000+06:00","dg-note-properties":{"title":"Random Variables, PMF, PDF and CDF","course":"Applied Business Statistics","semester":3,"source":"[[1 RV PMF CDF PDF CDF.pdf]]","tags":["study","applied-business-statistics","probability","random-variable"]}}
 ---
 
 

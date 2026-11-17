@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-4-managing-marketing-information/","title":"Chapter 4 - Managing Marketing Information","tags":["study","marketing","chapter-4","marketing-research","mis"],"dg-note-properties":{"title":"Chapter 4 - Managing Marketing Information","subject":"Marketing","semester":"3rd Semester","source":"Chapter 4 Managing Marketing Information.pdf","tags":["study","marketing","chapter-4","marketing-research","mis"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-4-managing-marketing-information/","title":"Chapter 4 - Managing Marketing Information","tags":["study","marketing","chapter-4","marketing-research","mis"],"created":"2026-11-10T13:35:36.074+06:00","updated":"2026-11-10T13:35:36.000+06:00","dg-note-properties":{"title":"Chapter 4 - Managing Marketing Information","subject":"Marketing","semester":"3rd Semester","source":"Chapter 4 Managing Marketing Information.pdf","tags":["study","marketing","chapter-4","marketing-research","mis"]}}
 ---
 
 

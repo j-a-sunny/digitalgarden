@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/statistics/fundamentals-of-probability/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/statistics/fundamentals-of-probability/","created":"2026-09-11T22:34:24.537+06:00","updated":"2026-07-04T14:08:18.000+06:00","dg-note-properties":{}}
 ---
 
 **Probability** is defined as the likelihood that a specific random event will occur in the future. To understand this field, we must first establish a common vocabulary of its core components.

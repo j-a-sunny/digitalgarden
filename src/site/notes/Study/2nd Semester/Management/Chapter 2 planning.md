@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/management/chapter-2-planning/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/management/chapter-2-planning/","created":"2026-09-11T22:34:24.541+06:00","updated":"2026-07-04T02:20:54.000+06:00","dg-note-properties":{}}
 ---
 
 # CHAPTER 2: PLANNING & DECISION MAKING (PART 1)

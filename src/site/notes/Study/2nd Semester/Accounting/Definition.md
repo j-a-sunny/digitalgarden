@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/accounting/definition/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/accounting/definition/","created":"2026-09-11T22:34:24.545+06:00","updated":"2026-07-04T02:20:16.000+06:00","dg-note-properties":{}}
 ---
 
 ### **Chapter 1: Accounting in Action Definitions**

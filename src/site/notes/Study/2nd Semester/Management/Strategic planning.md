@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/management/strategic-planning/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/management/strategic-planning/","created":"2026-09-30T13:21:13.285+06:00","updated":"2026-10-18T21:43:16.000+06:00","dg-note-properties":{}}
 ---
 
 **Definition & Purpose** Strategic planning is a long-term planning process through which organizations determine their mission, vision, long-term objectives, strategies, and resource allocation. Ultimately, strategic planning helps organizations adapt to environmental changes and achieve sustainable growth.

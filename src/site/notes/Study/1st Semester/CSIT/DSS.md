@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/dss/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/dss/","created":"2026-09-11T22:34:24.526+06:00","updated":"2026-07-04T02:19:36.000+06:00","dg-note-properties":{}}
 ---
 
 A **Decision Support System ([[Study/1st Semester/CSIT/DSS\|DSS]])** in business is a computerized program that analyze large sets of data to help leaders make informed, data-driven decisions. By combining data, models, and analytical tools, a [[Study/1st Semester/CSIT/DSS\|DSS]] supports decision-making in non-routine, complex, or semi-structured situations, such as sales forecasting, inventory management, or strategic planning.

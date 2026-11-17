@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/anova-one-way-classification-and-two-way-classification/","title":"ANOVA worked examples (one-way and two-way)","tags":["study","applied-business-statistics","anova","worked-examples"],"dg-note-properties":{"title":"ANOVA worked examples (one-way and two-way)","course":"Applied Business Statistics","semester":3,"source":"[[ANOVA one way classification and two way classification.pdf]]","tags":["study","applied-business-statistics","anova","worked-examples"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/anova-one-way-classification-and-two-way-classification/","title":"ANOVA worked examples (one-way and two-way)","tags":["study","applied-business-statistics","anova","worked-examples"],"created":"2026-11-07T18:00:05.352+06:00","updated":"2026-11-07T12:00:04.000+06:00","dg-note-properties":{"title":"ANOVA worked examples (one-way and two-way)","course":"Applied Business Statistics","semester":3,"source":"[[ANOVA one way classification and two way classification.pdf]]","tags":["study","applied-business-statistics","anova","worked-examples"]}}
 ---
 
 

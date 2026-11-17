@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/is/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/is/","created":"2026-09-11T22:34:24.525+06:00","updated":"2026-07-04T02:19:44.000+06:00","dg-note-properties":{}}
 ---
 
 An **Information System (IS)** is a combination of people, technology, processes, and data. It's goal is to collect, process, store, and distribute information to support business decision making.

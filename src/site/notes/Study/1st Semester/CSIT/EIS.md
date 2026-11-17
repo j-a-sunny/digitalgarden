@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/eis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/eis/","created":"2026-09-11T22:34:24.524+06:00","updated":"2026-07-04T02:19:40.000+06:00","dg-note-properties":{}}
 ---
 
 An Executive Information System (EIS) is a specialized management support system designed for top-level executives to access, analyze, and visualize internal and external data. It enables strategic decision-making through high-level, real-time reporting,, graphical dashboards, and drill-down capabilities, consolidating information on performance, market trends, and finance. 

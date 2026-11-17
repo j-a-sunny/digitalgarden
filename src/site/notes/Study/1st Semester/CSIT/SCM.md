@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/1st-semester/csit/scm/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/1st-semester/csit/scm/","created":"2026-09-11T22:34:24.524+06:00","updated":"2026-07-04T02:19:56.000+06:00","dg-note-properties":{}}
 ---
 
 [Supply chain management (SCM)](https://www.investopedia.com/terms/s/scm.asp) is the strategic coordination of the entire product lifecycle, from raw material sourcing and manufacturing to final delivery and returns. Key goals include reducing costs, improving efficiency, increasing velocity, and enhancing customer satisfaction. It involves five core pillars: planning, sourcing, manufacturing, delivery, and returns.

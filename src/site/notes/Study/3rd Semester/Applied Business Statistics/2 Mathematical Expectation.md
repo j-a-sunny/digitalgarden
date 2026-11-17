@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/2-mathematical-expectation/","title":"Mathematical Expectation","tags":["study","applied-business-statistics","probability","expectation","variance"],"dg-note-properties":{"title":"Mathematical Expectation","course":"Applied Business Statistics","semester":3,"source":"[[2 Mathematical Expectation.pdf]]","tags":["study","applied-business-statistics","probability","expectation","variance"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/2-mathematical-expectation/","title":"Mathematical Expectation","tags":["study","applied-business-statistics","probability","expectation","variance"],"created":"2026-11-07T17:56:19.832+06:00","updated":"2026-11-07T11:56:18.000+06:00","dg-note-properties":{"title":"Mathematical Expectation","course":"Applied Business Statistics","semester":3,"source":"[[2 Mathematical Expectation.pdf]]","tags":["study","applied-business-statistics","probability","expectation","variance"]}}
 ---
 
 

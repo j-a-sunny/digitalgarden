@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/accounting/chapter-1/","dg-note-properties":{"note-reader":["621acb3de13658d44b31e4ac333366c550b86707f8e16f63c3359d69aedc9d4d|5522"]}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/accounting/chapter-1/","created":"2026-09-11T22:34:24.543+06:00","updated":"2026-07-04T02:20:12.000+06:00","dg-note-properties":{"note-reader":["621acb3de13658d44b31e4ac333366c550b86707f8e16f63c3359d69aedc9d4d|5522"]}}
 ---
 
 ## Part 1: Conceptual Foundation & Building Blocks

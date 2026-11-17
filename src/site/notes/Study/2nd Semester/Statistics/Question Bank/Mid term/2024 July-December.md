@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/2nd-semester/statistics/question-bank/mid-term/2024-july-december/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/2nd-semester/statistics/question-bank/mid-term/2024-july-december/","created":"2026-09-11T22:34:24.535+06:00","updated":"2026-07-04T14:46:28.000+06:00","dg-note-properties":{}}
 ---
 
 ![Pasted image 20260704143810.png](/img/user/Study/2nd%20Semester/Statistics/Question%20Bank/Mid%20term/Pasted%20image%2020260704143810.png)

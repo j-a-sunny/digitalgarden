@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/applied-business-statistics/","title":"Applied Business Statistics (index)","tags":["study","applied-business-statistics","index"],"dg-note-properties":{"title":"Applied Business Statistics (index)","course":"Applied Business Statistics","semester":3,"tags":["study","applied-business-statistics","index"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/applied-business-statistics/","title":"Applied Business Statistics (index)","tags":["study","applied-business-statistics","index"],"created":"2026-11-12T00:02:25.053+06:00","updated":"2026-11-12T00:02:24.000+06:00","dg-note-properties":{"title":"Applied Business Statistics (index)","course":"Applied Business Statistics","semester":3,"tags":["study","applied-business-statistics","index"]}}
 ---
 
 

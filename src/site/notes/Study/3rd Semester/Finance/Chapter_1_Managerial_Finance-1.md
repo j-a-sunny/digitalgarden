@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/finance/chapter-1-managerial-finance-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/finance/chapter-1-managerial-finance-1/","created":"2026-11-03T12:49:04.228+06:00","updated":"2026-11-03T17:05:34.000+06:00","dg-note-properties":{}}
 ---
 
 **CHAPTER 1: AN OVERVIEW OF MANAGERIAL FINANCE**
