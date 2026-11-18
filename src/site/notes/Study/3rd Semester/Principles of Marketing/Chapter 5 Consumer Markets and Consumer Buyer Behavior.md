@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-5-consumer-markets-and-consumer-buyer-behavior/","title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"],"created":"2026-11-10T13:35:37.974+06:00","updated":"2026-11-18T21:59:02.691+06:00","dg-note-properties":{"title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","subject":"Marketing","semester":"3rd Semester","source":"Chapter 5 Consumer Markets and Consumer Buyer Behavior.pdf","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-5-consumer-markets-and-consumer-buyer-behavior/","title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"],"created":"2026-11-10T13:35:37.974+06:00","updated":"2026-11-19T00:54:32.132+06:00","dg-note-properties":{"title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","subject":"Marketing","semester":"3rd Semester","source":"Chapter 5 Consumer Markets and Consumer Buyer Behavior.pdf","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"]}}
 ---
 
 
@@ -7,7 +7,6 @@
 
 > [!info] About this note
 > Rewritten from the lecture slides (Pearson / Prentice Hall, 39 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Self-test questions** are mine and are not on the slides. Percentages for social classes are US figures from the slides.
-> Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]]
 
 ## The big picture (read this first)
 
@@ -221,3 +220,7 @@ Awareness → Interest → Evaluation → Trial → Adoption
 
 > [!question]- 10. Name the five stages of adoption and the five product characteristics that affect its rate.
 > Stages: **awareness → interest → evaluation → trial → adoption**. Characteristics: **relative advantage**, **compatibility**, **complexity**, **divisibility** and **communicability**.
+
+---
+
+Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]]

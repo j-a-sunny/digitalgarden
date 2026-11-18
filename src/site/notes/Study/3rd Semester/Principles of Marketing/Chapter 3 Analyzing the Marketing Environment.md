@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-3-analyzing-the-marketing-environment/","title":"Chapter 3 - Analyzing the Marketing Environment","tags":["study","marketing","chapter-3","marketing-environment"],"created":"2026-11-10T13:35:34.371+06:00","updated":"2026-11-18T21:59:02.690+06:00","dg-note-properties":{"title":"Chapter 3 - Analyzing the Marketing Environment","subject":"Marketing","semester":"3rd Semester","source":"Chapter 3 Analyzing the Marketing Environment.pdf","tags":["study","marketing","chapter-3","marketing-environment"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-3-analyzing-the-marketing-environment/","title":"Chapter 3 - Analyzing the Marketing Environment","tags":["study","marketing","chapter-3","marketing-environment"],"created":"2026-11-10T13:35:34.371+06:00","updated":"2026-11-19T00:54:20.430+06:00","dg-note-properties":{"title":"Chapter 3 - Analyzing the Marketing Environment","subject":"Marketing","semester":"3rd Semester","source":"Chapter 3 Analyzing the Marketing Environment.pdf","tags":["study","marketing","chapter-3","marketing-environment"]}}
 ---
 
 
@@ -7,7 +7,6 @@
 
 > [!info] About this note
 > Rewritten from the lecture slides (Pearson / Prentice Hall, 35 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Self-test questions** are mine and are not on the slides. The slides use US examples and 2010 data (baby boomers, "Growth in U.S. West and South").
-> Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 2 Company and Marketing Strategy\|Chapter 2 Company and Marketing Strategy]] | Next: [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]]
 
 ## The big picture (read this first)
 
@@ -199,3 +198,7 @@ Slide 34 shows three views on responding:
 
 > [!question]- 8. Compare proactive and reactive responses to the environment.
 > **Proactive** means taking aggressive actions to affect forces in the environment; **reactive** means watching and reacting to them. (The deck's third view, "uncontrollable", is simply to adapt to forces.)
+
+---
+
+Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 2 Company and Marketing Strategy\|Chapter 2 Company and Marketing Strategy]] | Next: [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-4-managing-marketing-information/","title":"Chapter 4 - Managing Marketing Information","tags":["study","marketing","chapter-4","marketing-research","mis"],"created":"2026-11-10T13:35:36.074+06:00","updated":"2026-11-18T21:59:02.690+06:00","dg-note-properties":{"title":"Chapter 4 - Managing Marketing Information","subject":"Marketing","semester":"3rd Semester","source":"Chapter 4 Managing Marketing Information.pdf","tags":["study","marketing","chapter-4","marketing-research","mis"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-4-managing-marketing-information/","title":"Chapter 4 - Managing Marketing Information","tags":["study","marketing","chapter-4","marketing-research","mis"],"created":"2026-11-10T13:35:36.074+06:00","updated":"2026-11-19T00:54:27.352+06:00","dg-note-properties":{"title":"Chapter 4 - Managing Marketing Information","subject":"Marketing","semester":"3rd Semester","source":"Chapter 4 Managing Marketing Information.pdf","tags":["study","marketing","chapter-4","marketing-research","mis"]}}
 ---
 
 
@@ -7,7 +7,6 @@
 
 > [!info] About this note
 > Rewritten from the lecture slides (Pearson / Prentice Hall, 37 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Self-test questions** are mine and are not on the slides.
-> Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 3 Analyzing the Marketing Environment\|Chapter 3 Analyzing the Marketing Environment]] | Next: [[Study/3rd Semester/Principles of Marketing/Chapter 5 Consumer Markets and Consumer Buyer Behavior\|Chapter 5 Consumer Markets and Consumer Buyer Behavior]]
 
 ## The big picture (read this first)
 
@@ -213,3 +212,7 @@ Marketing research in small businesses and nonprofits · international marketing
 
 > [!question]- 10. What is the difference between an intranet and an extranet?
 > An **intranet** provides information to employees and other stakeholders; an **extranet** provides it to key customers and suppliers.
+
+---
+
+Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 3 Analyzing the Marketing Environment\|Chapter 3 Analyzing the Marketing Environment]] | Next: [[Study/3rd Semester/Principles of Marketing/Chapter 5 Consumer Markets and Consumer Buyer Behavior\|Chapter 5 Consumer Markets and Consumer Buyer Behavior]]
