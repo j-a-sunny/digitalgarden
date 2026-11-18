@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/1739799506338-test-of-hypothesis/","title":"Test of Hypothesis","tags":["study","applied-business-statistics","hypothesis-testing","t-test","chi-square","f-test"],"created":"2026-11-07T17:57:49.505+06:00","updated":"2026-11-07T11:57:48.000+06:00","dg-note-properties":{"title":"Test of Hypothesis","course":"Applied Business Statistics","semester":3,"source":"[[1739799506338_Test of hypothesis.pdf]]","tags":["study","applied-business-statistics","hypothesis-testing","t-test","chi-square","f-test"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/1739799506338-test-of-hypothesis/","title":"Test of Hypothesis","tags":["study","applied-business-statistics","hypothesis-testing","t-test","chi-square","f-test"],"created":"2026-11-07T17:57:49.505+06:00","updated":"2026-11-18T21:52:39.802+06:00","dg-note-properties":{"title":"Test of Hypothesis","course":"Applied Business Statistics","semester":3,"source":"[[1739799506338_Test of hypothesis.pdf]]","tags":["study","applied-business-statistics","hypothesis-testing","t-test","chi-square","f-test"]}}
 ---
 
 
@@ -172,6 +172,8 @@ $\chi^2=\dfrac{100(1600-50)^2}{50\cdot50\cdot38\cdot62}=\dfrac{240250000}{589000
 > - **Type I = "false alarm"** (reject a true $H_0$, probability $\alpha$). **Type II = "missed detection"** (keep a false $H_0$, probability $\beta$).
 > - Degrees of freedom: one-sample $t$: $n-1$. Two-sample $t$: $n_1+n_2-2$. Paired: $n-1$. Correlation: $n-2$. $\chi^2$ table: $(r-1)(c-1)$.
 > - Small $p$ (calculated beyond the table value) means **reject**.
+
+## Self-test questions
 
 > [!question]- Self-test 1: What is a Type I error and how is its probability written?
 > Rejecting $H_0$ when it is true. Its probability is the level of significance $\alpha$.

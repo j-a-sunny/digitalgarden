@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/the-multiplier/","tags":["study","economics","macroeconomics","multiplier"],"created":"2026-11-17T12:49:31.194+06:00","updated":"2026-11-17T09:42:26.000+06:00","dg-note-properties":{"tags":["study","economics","macroeconomics","multiplier"],"semester":"3rd","source":"2.multiplier-1.ppt"}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/the-multiplier/","tags":["study","economics","macroeconomics","multiplier"],"created":"2026-11-17T12:49:31.194+06:00","updated":"2026-11-18T21:59:25.823+06:00","dg-note-properties":{"tags":["study","economics","macroeconomics","multiplier"],"semester":"3rd","source":"2.multiplier-1.ppt"}}
 ---
 
 
 # The Multiplier
 
 > [!info] About this note
-> Rewritten from the 37-slide lecture deck `2.multiplier-1.ppt` (24-25 session sheet) for studying. The old `.ppt` was converted before reading. Some equations are images in the original, so I rebuilt them in LaTeX and re-checked every calculation. Callouts titled **Added**, **Memory aid**, **Check** and **Review questions** are mine; everything else follows the slides. Last year's deck of the same name has essentially the same content.
-> Previous: [[Study/3rd Semester/Macroeconomics/Introduction to Macroeconomics\|Introduction to Macroeconomics]]
+> Rewritten from the 37-slide lecture deck `2.multiplier-1.ppt` (24-25 session sheet) for studying. The old `.ppt` was converted before reading. Some equations are images in the original, so I rebuilt them in LaTeX and re-checked every calculation. Callouts titled **Added**, **Memory aid**, **Check** and **Self-test questions** are mine; everything else follows the slides. Last year's deck of the same name has essentially the same content.
+> Previous: [[Study/3rd Semester/Macroeconomics/Introduction to Macroeconomics\|Introduction to Macroeconomics]] · Next: [[Study/3rd Semester/Macroeconomics/Two-Sector Two-Market Circular Flow\|Two-Sector Two-Market Circular Flow]]
 
 ## Contents
 
@@ -20,7 +20,7 @@
 7. [[Study/3rd Semester/Macroeconomics/The Multiplier#Worked illustrations\|#Worked illustrations]]
 8. [[Study/3rd Semester/Macroeconomics/The Multiplier#Key terms\|#Key terms]]
 9. [[Study/3rd Semester/Macroeconomics/The Multiplier#Things to check\|#Things to check]]
-10. [[Study/3rd Semester/Macroeconomics/The Multiplier#Review questions\|#Review questions]]
+10. [[Study/3rd Semester/Macroeconomics/The Multiplier#Self-test questions\|#Self-test questions]]
 
 
 ## The big picture (read this first)
@@ -193,19 +193,34 @@ $\Delta I=\dfrac{600}{1.6667}=$ **Tk 360 million**.
 > - **Rounded multipliers (slide 30):** it multiplies by the rounded values, so 171.6, 100.2 and 79.8 are off slightly. Exact answers are **171.4, 100 and 80**.
 > - **Slide 3:** the "Example" is only the 6 × 3 = 18 picture; it is not a numerical example of the multiplier.
 
-> [!question]- Review questions (mine)
-> 1. Define the multiplier in one sentence and state its formula.
-> 2. Derive $k=1/(1-\text{MPC})$ starting from $Y=C+I$.
-> 3. MPC is 0.9. Find the multiplier. What happens to it if the MPC falls to 0.5?
-> 4. What is the relationship between the multiplier and the MPS?
-> 5. If $C=200+0.75Y$ and $I=100$, find equilibrium income. What is the new income if $I$ rises to 120?
-> 6. Why are public works programmes more effective than a cheap money policy in a depression?
-> 7. Explain the reverse multiplier with an example.
-> 8. Why must investment increments be repeated at regular intervals, and why does an inter-sectoral transfer not raise the multiplier?
-> 9. How does the multiplier help in controlling business cycles?
-> 10. A government wants to raise income by Tk 500 million and the MPC is 0.75. How much extra autonomous investment is needed?
->
-> **Answers to 3, 5 and 10:**
-> - Q3: $k=1/(1-0.9)=10$; at MPC 0.5, $k=2$.
-> - Q5: $Y=(200+100)/0.25=1{,}200$; with $I=120$, $Y=320/0.25=1{,}280$ (rise of 80 = 20 × 4).
-> - Q10: $k=1/0.25=4$, so $\Delta I=500/4=$ Tk 125 million.
+## Self-test questions
+
+> [!question]- 1. Define the multiplier in one sentence and state its formula.
+> The multiplier is the number of times income changes for a given change in autonomous spending: $k=\dfrac{\Delta Y}{\Delta I}=\dfrac{1}{1-\text{MPC}}=\dfrac{1}{\text{MPS}}$.
+
+> [!question]- 2. Derive $k=1/(1-\text{MPC})$ starting from $Y=C+I$.
+> $\Delta Y=\Delta C+\Delta I$, and $\Delta C=c\,\Delta Y$ where $c$ is the MPC. So $\Delta Y=c\,\Delta Y+\Delta I$, then $\Delta Y(1-c)=\Delta I$, hence $\dfrac{\Delta Y}{\Delta I}=\dfrac{1}{1-c}$.
+
+> [!question]- 3. MPC is 0.9. Find the multiplier. What happens to it if the MPC falls to 0.5?
+> $k=1/(1-0.9)=10$; at MPC 0.5, $k=1/0.5=2$. A lower MPC means more leakage into saving, so a smaller multiplier.
+
+> [!question]- 4. What is the relationship between the multiplier and the MPS?
+> They are reciprocals: since $1-\text{MPC}=\text{MPS}$, $k=1/\text{MPS}$. The more people save out of extra income, the smaller the multiplier.
+
+> [!question]- 5. If $C=200+0.75Y$ and $I=100$, find equilibrium income. What is the new income if $I$ rises to 120?
+> $0.25Y=300\Rightarrow Y=1{,}200$. With $I=120$, $0.25Y=320\Rightarrow Y=1{,}280$ — a rise of 80, which is $20\times4$ (the multiplier).
+
+> [!question]- 6. Why are public works programmes more effective than a cheap money policy in a depression?
+> They act **directly** on investment, the autonomous spending that the multiplier multiplies, so income and employment rise cumulatively. Cheap money only makes borrowing cheaper and depends on businesses being willing to invest, which they usually are not in a depression.
+
+> [!question]- 7. Explain the reverse multiplier with an example.
+> A **fall** in autonomous spending causes a magnified **fall** in income. With MPC $=0.75$ ($k=4$) and investment falling by 40 million: $\Delta Y=-40\times4=-160$ million, and since $\Delta Y=\Delta C+\Delta I$, $\Delta C=-160+40=-120$ million.
+
+> [!question]- 8. Why must investment increments be repeated at regular intervals, and why does an inter-sectoral transfer not raise the multiplier?
+> Income has to be lifted step by step to full employment, so new investment must keep coming at regular intervals; a single injection can leak back into saving. An **inter-sectoral transfer** (investment rising in one sector while falling in another) is not a net increase in autonomous spending, so there is nothing extra to multiply.
+
+> [!question]- 9. How does the multiplier help in controlling business cycles?
+> It shows that cutting investment dampens a **boom** through a cumulative fall in income and employment, while raising investment in a **depression** brings revival; policy can therefore size an injection to the gap it wants to close.
+
+> [!question]- 10. A government wants to raise income by Tk 500 million and the MPC is 0.75. How much extra autonomous investment is needed?
+> $k=1/0.25=4$, so $\Delta I=500/4=$ **Tk 125 million**.

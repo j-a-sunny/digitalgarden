@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/intermediate-accounting/partnership-accounting-bangladesh-lecture-note-05-11-2026/","title":"Partnership Accounting (Bangladesh) - Lecture Note 05/11/2026","tags":["study","intermediate-accounting","partnership","realisation-account","goodwill"],"created":"2026-11-10T04:47:54.049+06:00","updated":"2026-11-10T04:47:54.000+06:00","dg-note-properties":{"title":"Partnership Accounting (Bangladesh) - Lecture Note 05/11/2026","subject":"Intermediate Accounting","semester":"3rd Semester","source":"Partnership_Accounting_Bangladesh_Lecture_Note_05_11_2026.pdf","tags":["study","intermediate-accounting","partnership","realisation-account","goodwill"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/intermediate-accounting/partnership-accounting-bangladesh-lecture-note-05-11-2026/","title":"Partnership Accounting (Bangladesh) - Lecture Note 05/11/2026","tags":["study","intermediate-accounting","partnership","realisation-account","goodwill"],"created":"2026-11-10T04:47:54.049+06:00","updated":"2026-11-18T21:52:30.569+06:00","dg-note-properties":{"title":"Partnership Accounting (Bangladesh) - Lecture Note 05/11/2026","subject":"Intermediate Accounting","semester":"3rd Semester","source":"Partnership_Accounting_Bangladesh_Lecture_Note_05_11_2026.pdf","tags":["study","intermediate-accounting","partnership","realisation-account","goodwill"]}}
 ---
 
 
 # Partnership Accounting (Bangladesh)
 
 > [!info] About this note
-> Rewritten from the 16-page teaching note (PSTU Accounting & Information Systems, November 2026) for studying. All amounts are in **Bangladesh taka (Tk)**, taxes are ignored, and the examples are illustrative. I re-calculated every worked example and exercise and they all agree with the lecture note. Callouts titled **Added**, **Memory aid**, **Check** and **Review questions** are mine unless they say "from the note". The lecture note is a teaching note, not legal or tax advice.
+> Rewritten from the 16-page teaching note (PSTU Accounting & Information Systems, November 2026) for studying. All amounts are in **Bangladesh taka (Tk)**, taxes are ignored, and the examples are illustrative. I re-calculated every worked example and exercise and they all agree with the lecture note. Callouts titled **Added**, **Memory aid**, **Check** and **Self-test questions** are mine unless they say "from the note". The lecture note is a teaching note, not legal or tax advice.
 
 ## The big picture (read this first)
 
@@ -452,14 +452,34 @@ Bank check: 50,000 + 310,000 − 20,000 − 200,000 = **140,000** = 114,000 + 26
 > - **Admission:** bonus = **adjust capitals only**, goodwill = **raise an asset**.
 > - **Loss ratio** shares the realisation loss; **cash paid** to a partner = capital ± realisation result.
 
-> [!question]- Review questions (mine)
-> 1. What does the Partnership Act say about profit sharing, salary, interest on capital and partner advances when the deed is silent?
-> 2. Why is a partner's salary allowance not an expense, but interest on a partner's loan is?
-> 3. Contrast the fixed and fluctuating capital methods.
-> 4. A partner draws Tk 60,000 on 1 October. The year ends on 31 December and interest on drawings is 10% a year. How much interest is charged?
-> 5. What is the difference between a partner buying an existing interest and investing directly in the firm?
-> 6. Using the numbers in B3, show why the bonus and goodwill methods give different total capital.
-> 7. Why does IAS 38 matter for the goodwill method?
-> 8. In a retirement settlement, who bears the goodwill if it is not recorded and in what ratio?
-> 9. What does the estate of a deceased partner receive, and who is **not** automatically a partner?
-> 10. State the s.48 order of payment on dissolution and explain what happens to a debit capital balance.
+## Self-test questions
+
+> [!question]- 1. What does the Partnership Act say about profit sharing, salary, interest on capital and partner advances when the deed is silent?
+> Profits **and losses** are shared **equally** (s.13(b)); **no salary** is paid for managing the firm (s.13(a)); interest on capital is payable only if agreed and only **out of profits** (s.13(c)); an advance beyond agreed capital earns **6% a year** unless agreed otherwise (s.13(d)).
+
+> [!question]- 2. Why is a partner's salary allowance not an expense, but interest on a partner's loan is?
+> A partner is an owner, so salary is an **appropriation of profit** (allocated before residual sharing), not a charge in arriving at profit. A loan from a partner is a **debt of the firm**, so its interest is a finance expense payable whatever the profit.
+
+> [!question]- 3. Contrast the fixed and fluctuating capital methods.
+> Under **fixed** capital, the capital account moves only for permanent additions or agreed reductions; salary, interest, profit share and drawings go to a separate **current account**. Under **fluctuating** capital, all of those items hit the capital account directly.
+
+> [!question]- 4. A partner draws Tk 60,000 on 1 October. The year ends on 31 December and interest on drawings is 10% a year. How much interest is charged?
+> Three months outstanding: $60{,}000\times10\%\times\tfrac{3}{12}=$ **Tk 1,500**, debited to the partner's current account and credited to appropriation.
+
+> [!question]- 5. What is the difference between a partner buying an existing interest and investing directly in the firm?
+> A purchase of an existing interest is paid to the **selling partners personally**, no cash enters the firm and only capitals are reassigned; a premium given is a private payment, not firm goodwill. A **direct investment** brings cash **into the firm**, so bank and the new partner's capital both rise, along with any bonus or revaluation adjustment.
+
+> [!question]- 6. Using the numbers in B3, show why the bonus and goodwill methods give different total capital.
+> Bonus: total capital is 600,000 + 400,000 + 400,000 = **1,400,000** (A 630,000, B 420,000, C 350,000). Goodwill: the 400,000 for 25% implies a firm value of 1,600,000, so **200,000 goodwill** is raised and total capital becomes **1,600,000** (A 720,000, B 480,000, C 400,000). The difference is exactly the goodwill, and the two are **alternatives, not additions**.
+
+> [!question]- 7. Why does IAS 38 matter for the goodwill method?
+> IAS 38 **prohibits recognising internally generated goodwill** as an asset, so the 200,000 raised under the goodwill method cannot appear in IFRS-compliant statements: it is a classroom capital-settlement convention only. The bonus method (or an agreed off-books settlement) avoids the conflict.
+
+> [!question]- 8. In a retirement settlement, who bears the goodwill if it is not recorded and in what ratio?
+> The **continuing partners**, in their **gaining ratio** — not the old profit ratio. In the C2 example (A:B = 5:3) they bear A 12,500 and B 7,500 of the 20,000 credited to C.
+
+> [!question]- 9. What does the estate of a deceased partner receive, and who is **not** automatically a partner?
+> The estate receives opening capital + accrued salary and interest + profit share to the date of death + revaluation gain and goodwill share − drawings, revaluation losses and amounts owed to the firm, plus any separate loan claim (378,000 in the C4 example). An **executor or nominee** is not automatically a partner; death dissolves the firm under s.42(c) unless the deed allows continuation.
+
+> [!question]- 10. State the s.48 order of payment on dissolution and explain what happens to a debit capital balance.
+> **Outsiders' debts** first, then **partners' advances/loans**, then **partner capital**, then any residual surplus in the profit-sharing ratio. A partner with a **debit (deficient) capital balance owes that amount to the firm** and must bring in cash; losses and deficiencies fall first on profits, then on capital, then on the partners individually in the profit-sharing ratio under s.48(a), subject to the agreement.

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-4-managing-marketing-information/","title":"Chapter 4 - Managing Marketing Information","tags":["study","marketing","chapter-4","marketing-research","mis"],"created":"2026-11-10T13:35:36.074+06:00","updated":"2026-11-10T13:35:36.000+06:00","dg-note-properties":{"title":"Chapter 4 - Managing Marketing Information","subject":"Marketing","semester":"3rd Semester","source":"Chapter 4 Managing Marketing Information.pdf","tags":["study","marketing","chapter-4","marketing-research","mis"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-4-managing-marketing-information/","title":"Chapter 4 - Managing Marketing Information","tags":["study","marketing","chapter-4","marketing-research","mis"],"created":"2026-11-10T13:35:36.074+06:00","updated":"2026-11-18T21:59:02.690+06:00","dg-note-properties":{"title":"Chapter 4 - Managing Marketing Information","subject":"Marketing","semester":"3rd Semester","source":"Chapter 4 Managing Marketing Information.pdf","tags":["study","marketing","chapter-4","marketing-research","mis"]}}
 ---
 
 
 # Chapter 4: Managing Marketing Information
 
 > [!info] About this note
-> Rewritten from the lecture slides (Pearson / Prentice Hall, 37 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides.
+> Rewritten from the lecture slides (Pearson / Prentice Hall, 37 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Self-test questions** are mine and are not on the slides.
 > Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 3 Analyzing the Marketing Environment\|Chapter 3 Analyzing the Marketing Environment]] | Next: [[Study/3rd Semester/Principles of Marketing/Chapter 5 Consumer Markets and Consumer Buyer Behavior\|Chapter 5 Consumer Markets and Consumer Buyer Behavior]]
 
 ## The big picture (read this first)
@@ -182,14 +182,34 @@ Marketing research in small businesses and nonprofits · international marketing
 
 ---
 
-> [!question]- Review questions (mine)
-> 1. Why are customer insights hard to obtain, and where do they come from?
-> 2. What three tasks does an MIS perform?
-> 3. Differentiate internal data, marketing intelligence and marketing research.
-> 4. List the four steps of the marketing research process.
-> 5. What goes into a written research plan?
-> 6. Compare mail, telephone, personal and online contact methods on cost and speed.
-> 7. Which research approach is best for causal information and which for descriptive information?
-> 8. Name three probability samples and three nonprobability samples.
-> 9. Give two challenges of focus groups and two disadvantages of online research.
-> 10. What is the difference between an intranet and an extranet?
+## Self-test questions
+
+> [!question]- 1. Why are customer insights hard to obtain, and where do they come from?
+> They are **not obvious**, and customers are unsure of their own behaviour. They come from **better information and more effective use of existing information** — not from more information — typically through cross-functional customer-insights teams.
+
+> [!question]- 2. What three tasks does an MIS perform?
+> **Assess** information needs, **develop** the needed information (internal data, marketing intelligence, marketing research), and help managers **analyze and use** it, including distributing it to decision makers.
+
+> [!question]- 3. Differentiate internal data, marketing intelligence and marketing research.
+> **Internal data** is an electronic database of consumer and market information from sources inside the company network. **Marketing intelligence** is the systematic collection of publicly available information about consumers, competitors and marketplace developments. **Marketing research** is the systematic design, collection, analysis and reporting of data for a specific marketing situation.
+
+> [!question]- 4. List the four steps of the marketing research process.
+> Define the problem and research objectives → develop the research plan → implement the plan (collect and analyze the data) → interpret and report the findings.
+
+> [!question]- 5. What goes into a written research plan?
+> The management problem, the research objectives, the information needed, how the results will help management decisions, and the budget — plus the sources of existing data, research approaches, contact methods, sampling plan and instruments.
+
+> [!question]- 6. Compare mail, telephone, personal and online contact methods on cost and speed.
+> **Cost** (good to poor): online excellent, mail good, telephone fair, personal poor. **Speed** (good to poor): telephone and online excellent, personal good, mail poor.
+
+> [!question]- 7. Which research approach is best for causal information and which for descriptive information?
+> **Experimental** research is best for causal (cause-and-effect) information; **survey** research is best for descriptive information such as knowledge, attitudes, preferences and buying behaviour.
+
+> [!question]- 8. Name three probability samples and three nonprobability samples.
+> Probability: **simple random** (everyone has an equal chance), **stratified random** (random samples from each group), **cluster/area** (a sample of groups). Nonprobability: **convenience**, **judgment**, **quota**.
+
+> [!question]- 9. Give two challenges of focus groups and two disadvantages of online research.
+> Focus groups: expensive, and hard to generalise from a small group (also consumers are not always open and honest). Online research: restricted internet access, and uncertainty about who is actually answering.
+
+> [!question]- 10. What is the difference between an intranet and an extranet?
+> An **intranet** provides information to employees and other stakeholders; an **extranet** provides it to key customers and suppliers.

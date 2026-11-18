@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/2-mathematical-expectation/","title":"Mathematical Expectation","tags":["study","applied-business-statistics","probability","expectation","variance"],"created":"2026-11-07T17:56:19.832+06:00","updated":"2026-11-07T11:56:18.000+06:00","dg-note-properties":{"title":"Mathematical Expectation","course":"Applied Business Statistics","semester":3,"source":"[[2 Mathematical Expectation.pdf]]","tags":["study","applied-business-statistics","probability","expectation","variance"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/2-mathematical-expectation/","title":"Mathematical Expectation","tags":["study","applied-business-statistics","probability","expectation","variance"],"created":"2026-11-07T17:56:19.832+06:00","updated":"2026-11-18T21:52:39.803+06:00","dg-note-properties":{"title":"Mathematical Expectation","course":"Applied Business Statistics","semester":3,"source":"[[2 Mathematical Expectation.pdf]]","tags":["study","applied-business-statistics","probability","expectation","variance"]}}
 ---
 
 
@@ -54,6 +54,8 @@ $f(x)=\tfrac{3}{10}(3x-x^2)$ for $0\le x\le 2$, else 0.
 
 > [!tip] Added: linear rules (not on the slides)
 > $E(aX+b)=aE(X)+b$ and $\mathrm{Var}(aX+b)=a^2\mathrm{Var}(X)$. Adding a constant shifts the mean but does not change the spread.
+
+## Self-test questions
 
 > [!question]- Self-test 1: Find $E(X)$ for a fair die.
 > $\tfrac16(1+2+3+4+5+6)=3.5$.

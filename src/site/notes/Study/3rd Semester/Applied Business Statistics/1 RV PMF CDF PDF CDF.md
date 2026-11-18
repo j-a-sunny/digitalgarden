@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/1-rv-pmf-cdf-pdf-cdf/","title":"Random Variables, PMF, PDF and CDF","tags":["study","applied-business-statistics","probability","random-variable"],"created":"2026-11-07T17:56:07.980+06:00","updated":"2026-11-07T11:56:06.000+06:00","dg-note-properties":{"title":"Random Variables, PMF, PDF and CDF","course":"Applied Business Statistics","semester":3,"source":"[[1 RV PMF CDF PDF CDF.pdf]]","tags":["study","applied-business-statistics","probability","random-variable"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/1-rv-pmf-cdf-pdf-cdf/","title":"Random Variables, PMF, PDF and CDF","tags":["study","applied-business-statistics","probability","random-variable"],"created":"2026-11-07T17:56:07.980+06:00","updated":"2026-11-18T21:52:39.801+06:00","dg-note-properties":{"title":"Random Variables, PMF, PDF and CDF","course":"Applied Business Statistics","semester":3,"source":"[[1 RV PMF CDF PDF CDF.pdf]]","tags":["study","applied-business-statistics","probability","random-variable"]}}
 ---
 
 
@@ -84,6 +84,8 @@ Check: $F(2)=\tfrac{20}{20}=1$.
 > - For a continuous r.v. $P(X=x)=0$ for any single value, so $P(a\le X\le b)$ and $P(a<X<b)$ are the same.
 > - A CDF never decreases and always runs from 0 up to 1.
 > - Discrete: $P(X=x)=F(x)-F(x^-)$. Continuous: differentiate $F$ to get $f$.
+
+## Self-test questions
 
 > [!question]- Self-test 1: Why must the PMF probabilities sum to 1?
 > Together the possible values cover every outcome of the experiment, so the total probability is the whole sample space, which is 1.

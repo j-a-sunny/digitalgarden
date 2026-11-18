@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/3-binomial-distribution/","title":"Binomial Distribution","tags":["study","applied-business-statistics","probability","binomial"],"created":"2026-11-07T17:56:35.768+06:00","updated":"2026-11-07T11:56:34.000+06:00","dg-note-properties":{"title":"Binomial Distribution","course":"Applied Business Statistics","semester":3,"source":"[[3 Binomial Distribution.pdf]]","tags":["study","applied-business-statistics","probability","binomial"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/3-binomial-distribution/","title":"Binomial Distribution","tags":["study","applied-business-statistics","probability","binomial"],"created":"2026-11-07T17:56:35.768+06:00","updated":"2026-11-18T21:52:39.803+06:00","dg-note-properties":{"title":"Binomial Distribution","course":"Applied Business Statistics","semester":3,"source":"[[3 Binomial Distribution.pdf]]","tags":["study","applied-business-statistics","probability","binomial"]}}
 ---
 
 
@@ -58,6 +58,8 @@ $P(X\ge 2)=1-[P(0)+P(1)]=1-[0.286+0.373]=1-0.659=0.341$.
 
 > [!tip] Added: memory aid "BINS"
 > **B**inary outcomes, **I**ndependent trials, **N**umber of trials fixed, **S**ame probability each time.
+
+## Self-test questions
 
 > [!question]- Self-test 1: A die is rolled 12 times. Find the mean and variance of the number of sixes.
 > $p=\tfrac16$, $q=\tfrac56$. Mean $=12\cdot\tfrac16=2$. Variance $=12\cdot\tfrac16\cdot\tfrac56=\tfrac{5}{3}\approx 1.67$.

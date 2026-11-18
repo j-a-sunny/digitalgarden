@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/anova-one-way-classification-and-two-way-classification/","title":"ANOVA worked examples (one-way and two-way)","tags":["study","applied-business-statistics","anova","worked-examples"],"created":"2026-11-07T18:00:05.352+06:00","updated":"2026-11-07T12:00:04.000+06:00","dg-note-properties":{"title":"ANOVA worked examples (one-way and two-way)","course":"Applied Business Statistics","semester":3,"source":"[[ANOVA one way classification and two way classification.pdf]]","tags":["study","applied-business-statistics","anova","worked-examples"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/anova-one-way-classification-and-two-way-classification/","title":"ANOVA worked examples (one-way and two-way)","tags":["study","applied-business-statistics","anova","worked-examples"],"created":"2026-11-07T18:00:05.352+06:00","updated":"2026-11-18T21:52:39.806+06:00","dg-note-properties":{"title":"ANOVA worked examples (one-way and two-way)","course":"Applied Business Statistics","semester":3,"source":"[[ANOVA one way classification and two way classification.pdf]]","tags":["study","applied-business-statistics","anova","worked-examples"]}}
 ---
 
 
@@ -115,6 +115,8 @@ $N=12$. $CF=310^2/12=8008.33$.
 > - Check your table before using it: row totals and column totals must both add to the grand total.
 > - "Fail to reject" is not "accept as equal". Say "no significant difference".
 > - Compare the **larger** $F$ with the table. If $F<1$ it can never be significant.
+
+## Self-test questions
 
 > [!question]- Self-test 1: In Example 1, why is the error d.f. 8?
 > $N-k=12-4=8$.

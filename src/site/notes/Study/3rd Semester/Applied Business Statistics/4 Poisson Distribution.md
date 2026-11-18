@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/4-poisson-distribution/","title":"Poisson Distribution","tags":["study","applied-business-statistics","probability","poisson"],"created":"2026-11-07T17:56:52.744+06:00","updated":"2026-11-07T11:56:52.000+06:00","dg-note-properties":{"title":"Poisson Distribution","course":"Applied Business Statistics","semester":3,"source":"[[4 Poisson Distribution.pdf]]","tags":["study","applied-business-statistics","probability","poisson"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/4-poisson-distribution/","title":"Poisson Distribution","tags":["study","applied-business-statistics","probability","poisson"],"created":"2026-11-07T17:56:52.744+06:00","updated":"2026-11-18T21:52:39.804+06:00","dg-note-properties":{"title":"Poisson Distribution","course":"Applied Business Statistics","semester":3,"source":"[[4 Poisson Distribution.pdf]]","tags":["study","applied-business-statistics","probability","poisson"]}}
 ---
 
 
@@ -78,6 +78,8 @@ $P(X<3)=P(0)+P(1)+P(2)=e^{-4}\left(1+4+8\right)=0.238$ (23.8%).
 
 > [!warning] Slide notation
 > The slides write $e=2.72$ and use "$P_0$" for "Po". Use $e\approx 2.718$ on exams and your calculator's $e^x$ key.
+
+## Self-test questions
 
 > [!question]- Self-test 1: Calls arrive at 3 per minute. Probability of none in a minute?
 > $e^{-3}=0.0498$.

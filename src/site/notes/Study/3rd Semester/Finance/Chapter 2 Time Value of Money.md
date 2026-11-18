@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/finance/chapter-2-time-value-of-money/","title":"Chapter 2 - Time Value of Money","tags":["study","managerial-finance","time-value-of-money","annuity","amortization"],"created":"2026-11-16T18:33:20.390+06:00","updated":"2026-11-16T18:33:20.000+06:00","dg-note-properties":{"title":"Chapter 2 - Time Value of Money","subject":"Managerial Finance","semester":"3rd Semester","source":"BBA chapter-2 Time Value of Money.pptx","tags":["study","managerial-finance","time-value-of-money","annuity","amortization"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/finance/chapter-2-time-value-of-money/","title":"Chapter 2 - Time Value of Money","tags":["study","managerial-finance","time-value-of-money","annuity","amortization"],"created":"2026-11-16T18:33:20.390+06:00","updated":"2026-11-18T21:52:39.799+06:00","dg-note-properties":{"title":"Chapter 2 - Time Value of Money","subject":"Managerial Finance","semester":"3rd Semester","source":"BBA chapter-2 Time Value of Money.pptx","tags":["study","managerial-finance","time-value-of-money","annuity","amortization"]}}
 ---
 
 
@@ -627,7 +627,7 @@ $$r = \left(\frac{FV}{PV}\right)^{1/n} - 1 \qquad\qquad n = \frac{\ln(FV/PV)}{\l
 
 ---
 
-## Self-test
+## Self-test questions
 
 > [!question]- 1. Why does a taka today beat a taka next year even if there is no inflation?
 > Because of the other arguments in time preference theory: current consumption is preferred, the future is uncertain (needs a risk premium), and today's money can be invested to earn a return (opportunity cost).

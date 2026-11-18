@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-3-analyzing-the-marketing-environment/","title":"Chapter 3 - Analyzing the Marketing Environment","tags":["study","marketing","chapter-3","marketing-environment"],"created":"2026-11-10T13:35:34.371+06:00","updated":"2026-11-10T13:35:34.000+06:00","dg-note-properties":{"title":"Chapter 3 - Analyzing the Marketing Environment","subject":"Marketing","semester":"3rd Semester","source":"Chapter 3 Analyzing the Marketing Environment.pdf","tags":["study","marketing","chapter-3","marketing-environment"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-3-analyzing-the-marketing-environment/","title":"Chapter 3 - Analyzing the Marketing Environment","tags":["study","marketing","chapter-3","marketing-environment"],"created":"2026-11-10T13:35:34.371+06:00","updated":"2026-11-18T21:59:02.690+06:00","dg-note-properties":{"title":"Chapter 3 - Analyzing the Marketing Environment","subject":"Marketing","semester":"3rd Semester","source":"Chapter 3 Analyzing the Marketing Environment.pdf","tags":["study","marketing","chapter-3","marketing-environment"]}}
 ---
 
 
 # Chapter 3: Analyzing the Marketing Environment
 
 > [!info] About this note
-> Rewritten from the lecture slides (Pearson / Prentice Hall, 35 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides. The slides use US examples and 2010 data (baby boomers, "Growth in U.S. West and South").
+> Rewritten from the lecture slides (Pearson / Prentice Hall, 35 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Self-test questions** are mine and are not on the slides. The slides use US examples and 2010 data (baby boomers, "Growth in U.S. West and South").
 > Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 2 Company and Marketing Strategy\|Chapter 2 Company and Marketing Strategy]] | Next: [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]]
 
 ## The big picture (read this first)
@@ -174,12 +174,28 @@ Slide 34 shows three views on responding:
 
 ---
 
-> [!question]- Review questions (mine)
-> 1. What is the difference between the microenvironment and the macroenvironment? Give two actors and two forces.
-> 2. List the four types of marketing intermediaries.
-> 3. Give the birth years and one trait of each generation (boomers, Gen X, millennials).
-> 4. State Engel's law with all three effects.
-> 5. Explain the difference between core and secondary cultural values and which one marketers can influence more.
-> 6. Name the three ways people view society and what each wants to do.
-> 7. What is cause-related marketing and which environment does it belong to?
-> 8. Compare proactive and reactive responses to the environment.
+## Self-test questions
+
+> [!question]- 1. What is the difference between the microenvironment and the macroenvironment? Give two actors and two forces.
+> The **microenvironment** is the actors close to the company that affect its ability to serve customers; the **macroenvironment** is the larger societal forces that affect the whole microenvironment. Actors: suppliers and marketing intermediaries (also the company, customers, competitors, publics). Forces: demographic and technological (also economic, natural, political, cultural).
+
+> [!question]- 2. List the four types of marketing intermediaries.
+> Resellers (retailers, wholesalers), physical distribution firms (warehousing, transport), marketing services agencies (research, advertising, consulting) and financial intermediaries (banks, credit and insurance firms).
+
+> [!question]- 3. Give the birth years and one trait of each generation (boomers, Gen X, millennials).
+> **Baby boomers** 1946–1964, the most affluent Americans. **Generation X** 1965–1976, cautious economic outlook with family coming first. **Millennials** (Gen Y) 1977–2000, comfortable with technology, including tweens, teens and young adults.
+
+> [!question]- 4. State Engel's law with all three effects.
+> As income rises, the percentage spent on **food declines**, the percentage spent on **housing stays constant**, and the percentage spent on **savings increases**.
+
+> [!question]- 5. Explain the difference between core and secondary cultural values and which one marketers can influence more.
+> **Core** beliefs and values are persistent: passed from parents to children and reinforced by schools, churches, business and government. **Secondary** beliefs and values are more open to change. Marketers can influence **secondary** values; core values only in the loosest, long-run sense.
+
+> [!question]- 6. Name the three ways people view society and what each wants to do.
+> **Patriots** defend society, **reformers** want to change it, and **malcontents** want to leave it.
+
+> [!question]- 7. What is cause-related marketing and which environment does it belong to?
+> Marketing that ties the company to a social cause as part of socially responsible behaviour — it appears under the **political environment**, in the deck's "increased emphasis on ethics" trend.
+
+> [!question]- 8. Compare proactive and reactive responses to the environment.
+> **Proactive** means taking aggressive actions to affect forces in the environment; **reactive** means watching and reacting to them. (The deck's third view, "uncontrollable", is simply to adapt to forces.)

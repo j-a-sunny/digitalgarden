@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/quality-control/","title":"Statistical Quality Control","tags":["study","applied-business-statistics","quality-control","control-charts","acceptance-sampling"],"created":"2026-11-07T17:59:51.977+06:00","updated":"2026-11-07T11:59:50.000+06:00","dg-note-properties":{"title":"Statistical Quality Control","course":"Applied Business Statistics","semester":3,"source":"[[Quality Control.pdf]]","tags":["study","applied-business-statistics","quality-control","control-charts","acceptance-sampling"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/quality-control/","title":"Statistical Quality Control","tags":["study","applied-business-statistics","quality-control","control-charts","acceptance-sampling"],"created":"2026-11-07T17:59:51.977+06:00","updated":"2026-11-18T21:52:39.808+06:00","dg-note-properties":{"title":"Statistical Quality Control","course":"Applied Business Statistics","semester":3,"source":"[[Quality Control.pdf]]","tags":["study","applied-business-statistics","quality-control","control-charts","acceptance-sampling"]}}
 ---
 
 
@@ -132,6 +132,8 @@ Defectives: 4, 8, 11, 3, 11, 7, 7, 16, 12, 6. Total $=85$, $\bar p=0.085$, $n\ba
 > - **UCL > centre line > LCL.** If your upper and lower limits come out swapped (as in Problem 2) you have used the wrong table constants.
 > - A point **outside the limits** (or LCL below 0 treated as 0) is the signal to look for an assignable cause.
 > - Producer's risk = **reject a good** lot. Consumer's risk = **accept a bad** lot.
+
+## Self-test questions
 
 > [!question]- Self-test 1: What is the difference between chance and assignable causes?
 > Chance causes are natural, unavoidable variation. Assignable causes are specific, preventable disturbances that can be found and removed.

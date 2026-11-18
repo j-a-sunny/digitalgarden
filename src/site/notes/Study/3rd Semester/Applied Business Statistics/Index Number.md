@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/index-number/","title":"Index Numbers","tags":["study","applied-business-statistics","index-number","laspeyres","paasche","fisher"],"created":"2026-11-07T18:00:10.168+06:00","updated":"2026-11-07T12:00:10.000+06:00","dg-note-properties":{"title":"Index Numbers","course":"Applied Business Statistics","semester":3,"source":"[[Index Number.pdf]]","tags":["study","applied-business-statistics","index-number","laspeyres","paasche","fisher"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/index-number/","title":"Index Numbers","tags":["study","applied-business-statistics","index-number","laspeyres","paasche","fisher"],"created":"2026-11-07T18:00:10.168+06:00","updated":"2026-11-18T21:52:39.807+06:00","dg-note-properties":{"title":"Index Numbers","course":"Applied Business Statistics","semester":3,"source":"[[Index Number.pdf]]","tags":["study","applied-business-statistics","index-number","laspeyres","paasche","fisher"]}}
 ---
 
 
@@ -148,6 +148,8 @@ Living costs rose by about 43.9%.
 
 > [!tip] Added: tendencies (not on the slides)
 > Laspeyres usually runs higher than Paasche when consumers shift away from items whose prices rise, and the Fisher index falls between them. This matches Problem 2.
+
+## Self-test questions
 
 > [!question]- Self-test 1: What is the index number of the base year?
 > 100.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/inflation-effects-and-control-measures/","tags":["study","economics","macroeconomics"],"created":"2026-11-11T19:19:24.744+06:00","updated":"2026-11-13T16:14:26.000+06:00","dg-note-properties":{"tags":["study","economics","macroeconomics"],"semester":"3rd","source":"handwritten class notes","lecturer":"Shubhamangin Sir"}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/inflation-effects-and-control-measures/","tags":["study","economics","macroeconomics"],"created":"2026-11-11T19:19:24.744+06:00","updated":"2026-11-18T21:53:56.688+06:00","dg-note-properties":{"tags":["study","economics","macroeconomics"],"semester":"3rd","source":"handwritten class notes","lecturer":"Shubhamangin Sir"}}
 ---
 
 # Inflation: Effects and Control Measures
@@ -108,7 +108,7 @@ The page lists “Direction” as another measure, but the specific meaning is u
 
 **Monetary controls: B-R-O** — **B**ank rate, **R**eserve ratio, **O**pen-market operations.
 
-## Self-test
+## Self-test questions
 
 > [!question]- 1. Which consumer groups do the notes identify as most vulnerable to inflation?
 > Poor people, people on fixed incomes, marginalized groups, and lower- and upper-middle-income households are named; the notes particularly emphasize lower-income groups.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/5-normal-distribution/","title":"Normal Distribution","tags":["study","applied-business-statistics","probability","normal-distribution"],"created":"2026-11-07T18:00:01.575+06:00","updated":"2026-11-07T12:00:00.000+06:00","dg-note-properties":{"title":"Normal Distribution","course":"Applied Business Statistics","semester":3,"source":"[[5 Normal Distribution.pdf]]","tags":["study","applied-business-statistics","probability","normal-distribution"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/5-normal-distribution/","title":"Normal Distribution","tags":["study","applied-business-statistics","probability","normal-distribution"],"created":"2026-11-07T18:00:01.575+06:00","updated":"2026-11-18T21:52:39.804+06:00","dg-note-properties":{"title":"Normal Distribution","course":"Applied Business Statistics","semester":3,"source":"[[5 Normal Distribution.pdf]]","tags":["study","applied-business-statistics","probability","normal-distribution"]}}
 ---
 
 
@@ -67,6 +67,8 @@ $z=\dfrac{254.4-250}{4}=1.1$, so $P=1-P(Z<1.1)=1-0.8643=0.136$.
 
 > [!warning] Slide notation
 > The slides write $e=2.712$. The correct value is $e\approx 2.718$ (and $\pi\approx3.14$).
+
+## Self-test questions
 
 > [!question]- Self-test 1: $X\sim N(100,\,25)$. What is the probability $X$ is between 95 and 105?
 > $\sigma=5$, so $z=\pm1$ and the area is $0.6826$.

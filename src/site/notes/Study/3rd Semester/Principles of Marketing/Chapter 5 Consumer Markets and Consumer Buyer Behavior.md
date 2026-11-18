@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-5-consumer-markets-and-consumer-buyer-behavior/","title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"],"created":"2026-11-10T13:35:37.974+06:00","updated":"2026-11-10T13:35:36.000+06:00","dg-note-properties":{"title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","subject":"Marketing","semester":"3rd Semester","source":"Chapter 5 Consumer Markets and Consumer Buyer Behavior.pdf","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/chapter-5-consumer-markets-and-consumer-buyer-behavior/","title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"],"created":"2026-11-10T13:35:37.974+06:00","updated":"2026-11-18T21:59:02.691+06:00","dg-note-properties":{"title":"Chapter 5 - Consumer Markets and Consumer Buyer Behavior","subject":"Marketing","semester":"3rd Semester","source":"Chapter 5 Consumer Markets and Consumer Buyer Behavior.pdf","tags":["study","marketing","chapter-5","consumer-behavior","buyer-decision-process"]}}
 ---
 
 
 # Chapter 5: Consumer Markets and Consumer Buyer Behavior
 
 > [!info] About this note
-> Rewritten from the lecture slides (Pearson / Prentice Hall, 39 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Review questions** are mine and are not on the slides. Percentages for social classes are US figures from the slides.
+> Rewritten from the lecture slides (Pearson / Prentice Hall, 39 slides, 23-24 session sheet) for studying. Definitions are kept close to the slides. Callouts titled **Memory aid**, **Added** and **Self-test questions** are mine and are not on the slides. Percentages for social classes are US figures from the slides.
 > Previous: [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]]
 
 ## The big picture (read this first)
@@ -190,14 +190,34 @@ Awareness → Interest → Evaluation → Trial → Adoption
 
 ---
 
-> [!question]- Review questions (mine)
-> 1. Draw the model of consumer behavior and label its three parts.
-> 2. List the four groups of characteristics and the factors in each.
-> 3. Distinguish membership, aspirational and reference groups.
-> 4. Who are opinion leaders and why do marketers want them?
-> 5. List Maslow's five levels from bottom to top.
-> 6. Explain selective attention, distortion and retention with an example of each.
-> 7. Fill the 2×2 grid of buying behaviors and give an example of each.
-> 8. List the five stages of the buyer decision process and the four information sources.
-> 9. What is cognitive dissonance and how does the expectation gap relate to satisfaction?
-> 10. Name the five stages of adoption and the five product characteristics that affect its rate.
+## Self-test questions
+
+> [!question]- 1. Draw the model of consumer behavior and label its three parts.
+> **Environment** (marketing stimuli: product, price, place, promotion; plus other economic, technological, social and cultural forces) → **buyer's black box** (buyer's characteristics and buyer's decision process) → **buyer responses** (attitudes and preferences, purchase behaviour, brand and company relationship behaviour).
+
+> [!question]- 2. List the four groups of characteristics and the factors in each.
+> **Cultural:** culture, subculture, social class. **Social:** reference groups, family, roles and status. **Personal:** age and life-cycle stage, occupation, economic situation, lifestyle, personality and self-concept. **Psychological:** motivation, perception, learning, beliefs and attitudes.
+
+> [!question]- 3. Distinguish membership, aspirational and reference groups.
+> A **membership** group has direct influence and the person belongs to it. An **aspirational** group is one the person wishes to belong to. A **reference** group serves as a comparison point in forming attitudes or behaviour — it can be either of the other two, or one the person does not belong to.
+
+> [!question]- 4. Who are opinion leaders and why do marketers want them?
+> People in a reference group who exert social influence on others (also called **influentials** or **leading adopters**). Marketers identify them and use them as **brand ambassadors**, because their word of mouth drives buzz marketing.
+
+> [!question]- 5. List Maslow's five levels from bottom to top.
+> Physiological (hunger, thirst) → safety (security, protection) → social (belonging, love) → esteem (self-esteem, recognition, status) → self-actualization (self-development and realization).
+
+> [!question]- 6. Explain selective attention, distortion and retention with an example of each.
+> **Attention** — screening out most of the information exposed to (you ignore almost every ad on a web page). **Distortion** — interpreting information so that it supports what you already believe (a loyal iPhone owner reads a critical review as a minor quibble). **Retention** — remembering good points about a favoured brand and forgetting good points about competitors (you recall a Samsung ad but not a rival's).
+
+> [!question]- 7. Fill the 2×2 grid of buying behaviors and give an example of each.
+> High involvement + significant brand differences = **complex** (a computer or a house). High involvement + few differences = **dissonance-reducing** (carpeting). Low involvement + significant differences = **variety-seeking** (cookies or snacks, switching for variety not dissatisfaction). Low involvement + few differences = **habitual** (salt).
+
+> [!question]- 8. List the five stages of the buyer decision process and the four information sources.
+> Need recognition → information search → evaluation of alternatives → purchase decision → post-purchase behaviour. Sources: **personal** (family, friends), **commercial** (advertising, Internet), **public** (mass media, consumer organisations) and **experiential** (handling, examining, using the product).
+
+> [!question]- 9. What is cognitive dissonance and how does the expectation gap relate to satisfaction?
+> **Cognitive dissonance** is the discomfort caused by a post-purchase conflict — doubt after committing to a choice. Satisfaction depends on the gap between **expectations** and **perceived performance**: the larger the gap, the greater the dissatisfaction, and closing it keeps the customer's lifetime value.
+
+> [!question]- 10. Name the five stages of adoption and the five product characteristics that affect its rate.
+> Stages: **awareness → interest → evaluation → trial → adoption**. Characteristics: **relative advantage**, **compatibility**, **complexity**, **divisibility** and **communicability**.

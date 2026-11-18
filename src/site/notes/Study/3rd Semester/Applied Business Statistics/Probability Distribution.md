@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/probability-distribution/","title":"Probability Distribution (short sheet)","tags":["study","applied-business-statistics","probability","binomial","poisson","normal-distribution"],"created":"2026-11-11T19:12:38.839+06:00","updated":"2026-11-11T19:12:38.000+06:00","dg-note-properties":{"title":"Probability Distribution (short sheet)","course":"Applied Business Statistics","semester":3,"source":"[[Probability Distribution(1).pdf]]","tags":["study","applied-business-statistics","probability","binomial","poisson","normal-distribution"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/applied-business-statistics/probability-distribution/","title":"Probability Distribution (short sheet)","tags":["study","applied-business-statistics","probability","binomial","poisson","normal-distribution"],"created":"2026-11-11T19:12:38.839+06:00","updated":"2026-11-18T21:52:39.807+06:00","dg-note-properties":{"title":"Probability Distribution (short sheet)","course":"Applied Business Statistics","semester":3,"source":"[[Probability Distribution(1).pdf]]","tags":["study","applied-business-statistics","probability","binomial","poisson","normal-distribution"]}}
 ---
 
 
@@ -157,6 +157,8 @@ $$P(x>10)=1-P(x\le10)=1-e^{-5}\sum_{x=0}^{10}\frac{5^x}{x!}$$
 
 > [!warning] Typos on the slides
 > "trails" should be "trials", "quantoty" should be "quantity", and "Coefficien" should be "Coefficient". The notation is also loose: the slide writes $\mu$ for the variance in one line ($\mu_2=\sigma^2$).
+
+## Self-test questions
 
 > [!question]- Self-test 1: A binomial has $n=10$, $p=0.3$. Find mean, variance and coefficient of variation.
 > Mean $=3$, variance $=10(0.3)(0.7)=2.1$, $C.V.=\sqrt{2.1}/3\times100\approx48.3\%$.
