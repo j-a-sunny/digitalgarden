@@ -1,15 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/principles-of-marketing/","title":"Principles of Marketing (index)","tags":["study","marketing","index"],"created":"2026-11-10T13:35:31.934+06:00","updated":"2026-11-10T13:35:30.000+06:00","dg-note-properties":{"title":"Principles of Marketing (index)","subject":"Marketing","semester":"3rd Semester","tags":["study","marketing","index"]}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/principles-of-marketing/principles-of-marketing/","title":"Principles of Marketing (index)","tags":["study","marketing","index"],"created":"2026-11-18T17:37:52.436+06:00","updated":"2026-11-18T19:20:13.654+06:00","dg-note-properties":{"title":"Principles of Marketing (index)","subject":"Marketing","semester":"3rd Semester","tags":["study","marketing","index"]}}
 ---
 
 
 > [!summary] About this index
 > Map of the converted Principles of Marketing notes. Source PDFs and slides are in `23-24 Session sheets/` and `24-25 Session sheets/`. Notes are reworded for studying; anything not on the slides is marked **Added** or **mine**.
 
+## Raw textbook conversion
+
+| File | Description |
+|---|---|
+| [[Study/3rd Semester/Principles of Marketing/Kotler-and-Armstrong-Principles-of-Marketing/Kotler-and-Armstrong-Principles-of-Marketing 1\|Kotler-and-Armstrong-Principles-of-Marketing 1]] | Raw MarkItDown conversion of the complete 31 MB textbook PDF |
+
 ## Chapter notes
 
 | Chapter | Note | Main ideas | Source |
 |---|---|---|---|
+| 1 | [[Study/3rd Semester/Principles of Marketing/Chapter 1 Marketing Creating Customer Value and Engagement\|Chapter 1 Marketing Creating Customer Value and Engagement]] | Marketing process, needs/wants/demand, market orientations, CRM, customer equity | `Kotler-and-Armstrong-Principles-of-Marketing.pdf`, Chapter 1 |
 | 2 | [[Study/3rd Semester/Principles of Marketing/Chapter 2 Company and Marketing Strategy\|Chapter 2 Company and Marketing Strategy]] | Strategic planning, portfolio, STP, 4Ps, value chain | `Chapter 2 Company and Marketing Strategy.pdf` |
 | 3 | [[Study/3rd Semester/Principles of Marketing/Chapter 3 Analyzing the Marketing Environment\|Chapter 3 Analyzing the Marketing Environment]] | Micro and macro environment, six macro forces, responses | `Chapter 3 Analyzing the Marketing Environment.pdf` |
 | 4 | [[Study/3rd Semester/Principles of Marketing/Chapter 4 Managing Marketing Information\|Chapter 4 Managing Marketing Information]] | MIS, internal data, intelligence, marketing research, CRM | `Chapter 4 Managing Marketing Information.pdf` |

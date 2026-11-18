@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/agents-2/","title":"AGENTS","tags":["meta","ai-agents"],"created":"2026-11-17T14:28:38.673+06:00","updated":"2026-11-17T14:28:38.675+06:00","dg-note-properties":{"title":"AGENTS","tags":["meta","ai-agents"]}}
+{"dg-publish":true,"permalink":"/agents-2/","title":"AGENTS","tags":["meta","ai-agents"],"created":"2026-11-17T14:28:38.673+06:00","updated":"2026-11-18T04:10:44.000+06:00","dg-note-properties":{"title":"AGENTS","tags":["meta","ai-agents"]}}
 ---
 
 
 # Notes for AI agents working in this vault
 
-Read [[MEMORY\|MEMORY]] too: it has the student's background, current courses and the status of each note.
+Read [[MEMORY\|MEMORY]] too: it has the user's background, current courses and the status of each note.
 
 ## Layout
 - Vault root: `/home/jasper/Documents/Obsidian/Vault01`

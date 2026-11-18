@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/the-multiplier/","tags":["study","economics","macroeconomics","multiplier"],"created":"2026-11-17T12:49:31.194+06:00","updated":"2026-11-17T09:42:27.272+06:00","dg-note-properties":{"tags":["study","economics","macroeconomics","multiplier"],"semester":"3rd","source":"2.multiplier-1.ppt"}}
+{"dg-publish":true,"permalink":"/study/3rd-semester/macroeconomics/the-multiplier/","tags":["study","economics","macroeconomics","multiplier"],"created":"2026-11-17T12:49:31.194+06:00","updated":"2026-11-17T09:42:26.000+06:00","dg-note-properties":{"tags":["study","economics","macroeconomics","multiplier"],"semester":"3rd","source":"2.multiplier-1.ppt"}}
 ---
 
 

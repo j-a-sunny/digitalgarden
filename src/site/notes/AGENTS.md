@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agents/","created":"2026-11-16T18:42:21.904+06:00","updated":"2026-11-18T04:10:03.538+06:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/agents/","created":"2026-11-16T18:42:21.904+06:00","updated":"2026-11-18T04:10:02.000+06:00","dg-note-properties":{}}
 ---
 
 # AGENTS.md
